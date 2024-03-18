@@ -1,4 +1,4 @@
-<div style="overflow:hidden" class="weijunext">
+<div style="overflow:hidden" class="phoenixlucky">
 
 <a href="https://github.com/phoenixlucky/phoenixlucky" style="max-width:50%;" >
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=phoenixlucky&count_private=true&theme=radical" />
@@ -26,14 +26,12 @@ I work on **Mysql** and **Python** projects and share knowledge in these areas.
 </a>
 
 ## 💡 My Products
-- ​
 
 
 ## 🌱 Learning Journey
-I'm on a continuous journey of learning and growth. My current focus includes:
-- Exploring `Nest.js` to broaden my back-end development skills.
-- The course **[Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/)** deepening my understanding of AI in tech.
-- Enhancing my proficiency in algorithms, which is fundamental to programming excellence.
+I'm constantly learning and growing. My current priorities include:
+- Explore front-end visualization to broaden my front-end development skills.
+- Improve my proficiency with algorithms, which are the foundation of good programming.
 
 ## 📫 Contact Me
 - **Email:** [englishyj@gmail.com](englishyj@gmail.com)
