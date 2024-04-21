@@ -17,7 +17,7 @@ I'm a **data analyst**, **full-stack practitioner**, and advocate for **systemat
 I work on **Mysql** and **Python** projects and share knowledge in these areas.
 
 ## 🛠 Skills
-- Front-End: `Next.js`.
+- Front-End: `Next.js`， `streamlit `.
 - Back-End: `Python`.
 - Databases：`Mysql`.
 
