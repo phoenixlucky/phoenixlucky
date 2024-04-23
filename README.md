@@ -17,16 +17,17 @@ I'm a **data analyst**, **full-stack practitioner**, and advocate for **systemat
 I work on **Mysql** and **Python** projects and share knowledge in these areas.
 
 ## 🛠 Skills
-- Front-End: `Next.js`， `streamlit `.
-- Back-End: `Python`.
-- Databases：`Mysql`.
+- Front-End: `Next.js`、`streamlit `、`html`、`Excel`、`CSS`.
+- Back-End: `Python`、`VBA`、`JAVA`、`BAT`.
+- Databases：`Mysql`、`mangoDB`.
 
 <a href="https://github.com/phoenixlucky/phoenixlucky" style="max-width:50%;" >
-  <img height="200" align="center" src="https://github-readme-stats-one-mu-82.vercel.app/api/top-langs/?username=weijunext&layout=compact&langs_count=8">
+  <img height="200" align="center" src="https://github-readme-stats-one-mu-82.vercel.app/api/top-langs/?username=phoenixlucky&layout=compact&langs_count=8">
 </a>
 
 ## 💡 My Products
-
+### [wei_office_simptool](https://github.com/phoenixlucky/wei_office_simptool)
+A tool library for simplifying office work, providing database operations, Excel processing, mail sending, date and time stamp format conversion, file movement and other common functions, to achieve 1 to 3 lines of code to complete the relevant processing of quick operations.
 
 ## 🌱 Learning Journey
 I'm constantly learning and growing. My current priorities include:
