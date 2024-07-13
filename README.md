@@ -14,10 +14,10 @@
 ## 🚀 About Me
 I'm a **data analyst**, **full-stack practitioner**, and advocate for **systematic management**.
 
-I work on **Mysql** and **Python** projects and share knowledge in these areas.
+I work on **Mysql**、 **JavaScript** and **Python** projects and share knowledge in these areas.
 
 ## 🛠 Skills
-- Front-End: `Next.js`、`streamlit `、`html`、`Excel`、`CSS`.
+- Front-End: `Next.js`、`streamlit `、`html`、`Excel`、`CSS`、`JavaScript`.
 - Back-End: `Python`、`VBA`、`JAVA`、`BAT`.
 - Databases：`Mysql`、`mangoDB`.
 
