@@ -20,6 +20,7 @@ I work on **Mysql**、 **JavaScript** and **Python** projects and share knowledg
 - Front-End: `Next.js`、`streamlit `、`html`、`Excel`、`CSS`、`JavaScript`.
 - Back-End: `Python`、`VBA`、`JAVA`、`BAT`.
 - Databases：`Mysql`、`mangoDB`.
+- AI-model：`LLaMA-Alpaca-3`、`chatGPT`.
 
 <a href="https://github.com/phoenixlucky/phoenixlucky" style="max-width:50%;" >
   <img height="200" align="center" src="https://github-readme-stats-one-mu-82.vercel.app/api/top-langs/?username=phoenixlucky&layout=compact&langs_count=8">
