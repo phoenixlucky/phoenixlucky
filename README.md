@@ -17,10 +17,10 @@ I'm a **data analyst**, **full-stack practitioner**, and advocate for **systemat
 I work on **Mysql**、 **JavaScript** and **Python** projects and share knowledge in these areas.
 
 ## 🛠 Skills
-- Front-End: ![Static Badge](https://img.shields.io/badge/-Next.js-E34F26?style=flat&logo=Next.js&logoColor=white) ![Streamlit](https://img.shields.io/badge/-streamlit-EE822F?style=flat&logo=streamlit&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) ![Excel](https://img.shields.io/badge/-Excel-75BD42?style=flat&logo=excel&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-E54C5E?style=flat&logo=CSS&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-248E87?style=flat&logo=JavaScript&logoColor=white)
-- Back-End: `Python`、`VBA`、`JAVA`、`BAT`.
-- Databases：`Mysql`、`mangoDB`.
-- AI-model：`LLaMA-Alpaca-3`、`chatGPT`.
+- Front-End:![Static Badge](https://img.shields.io/badge/-Next.js-60ACFC?style=flat&logo=Next.js&logoColor=white) ![Static Badge](https://img.shields.io/badge/-streamlit-32D3EB?style=flat&logo=streamlit&logoColor=white) ![Static Badge](https://img.shields.io/badge/-Html-5BC49F?style=flat&logo=Html&logoColor=white) ![Static Badge](https://img.shields.io/badge/-Excel-FEB64D?style=flat&logo=Excel&logoColor=white) ![Static Badge](https://img.shields.io/badge/-CSS-FF7C7C?style=flat&logo=CSS&logoColor=white) ![Static Badge](https://img.shields.io/badge/-JavaScript-9287E7?style=flat&logo=JavaScript&logoColor=white)
+- Back-End:![Static Badge](https://img.shields.io/badge/-Python-9287E7?style=flat&logo=Python&logoColor=white) ![Static Badge](https://img.shields.io/badge/-VBA-FFDD55?style=flat&logo=VBA&logoColor=white) ![Static Badge](https://img.shields.io/badge/-JAVA-FFAA85?style=flat&logo=JAVA&logoColor=white) ![Static Badge](https://img.shields.io/badge/-BAT-A8E6CF?style=flat&logo=BAT&logoColor=white)
+- Databases：![Static Badge](https://img.shields.io/badge/-Mysql-FEB64D?style=flat&logo=Mysql&logoColor=white) ![Static Badge](https://img.shields.io/badge/-mangoDB-FF7C7C?style=flat&logo=mangoDB&logoColor=white)
+- AI-model：![Static Badge](https://img.shields.io/badge/-LLaMA.Alpaca.3-A8E6CF?style=flat&logo=LLaMA.Alpaca.3&logoColor=white) ![Static Badge](https://img.shields.io/badge/-chatGPT-DCE775?style=flat&logo=chatGPT&logoColor=white)
 
 <a href="https://github.com/phoenixlucky/phoenixlucky" style="max-width:50%;" >
   <img height="200" align="center" src="https://github-readme-stats-one-mu-82.vercel.app/api/top-langs/?username=phoenixlucky&layout=compact&langs_count=8">
