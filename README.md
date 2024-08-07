@@ -17,7 +17,7 @@ I'm a **data analyst**, **full-stack practitioner**, and advocate for **systemat
 I work on **Mysql**、 **JavaScript** and **Python** projects and share knowledge in these areas.
 
 ## 🛠 Skills
-- Front-End: `Next.js`、`streamlit `、`html`、`Excel`、`CSS`、`JavaScript`.
+- Front-End: ![Static Badge](https://img.shields.io/badge/-Next.js-E34F26?style=flat&logo=Next.js&logoColor=white) ![Streamlit](https://img.shields.io/badge/-streamlit-EE822F?style=flat&logo=streamlit&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) ![Excel](https://img.shields.io/badge/-Excel-75BD42?style=flat&logo=excel&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-E54C5E?style=flat&logo=CSS&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-248E87?style=flat&logo=JavaScript&logoColor=white)
 - Back-End: `Python`、`VBA`、`JAVA`、`BAT`.
 - Databases：`Mysql`、`mangoDB`.
 - AI-model：`LLaMA-Alpaca-3`、`chatGPT`.
