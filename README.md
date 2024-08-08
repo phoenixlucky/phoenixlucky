@@ -12,7 +12,7 @@
 # Hi there 👋, I'm phoenixlucky!
 
 ## 🚀 About Me
-I'm a **data analyst**, **full-stack practitioner**, and advocate for **systematic management**.
+I'm a ![Static Badge](https://img.shields.io/badge/data_analyst-81C784?style=flat&logo=data_analyst&logoColor=white)，![Static Badge](https://img.shields.io/badge/full_stack_practitioner-4DD0E1?style=flat&logo=full_stack_practitioner&logoColor=white), and advocate for ![Static Badge](https://img.shields.io/badge/systematic_management-BA68C8?style=flat&logo=systematic_management&logoColor=white).
 
 I work on ![Static Badge](https://img.shields.io/badge/-Mysql-FFDD55?style=flat&logo=Mysql&logoColor=white)、![Static Badge](https://img.shields.io/badge/-JavaScript-FFAA85?style=flat&logo=JavaScript&logoColor=white) and ![Static Badge](https://img.shields.io/badge/-Python-A8E6CF?style=flat&logo=Python&logoColor=white) projects and share knowledge in these areas.
 
