@@ -14,7 +14,7 @@
 ## 🚀 About Me
 I'm a **data analyst**, **full-stack practitioner**, and advocate for **systematic management**.
 
-I work on **Mysql**、 **JavaScript** and **Python** projects and share knowledge in these areas.
+I work on ![Static Badge](https://img.shields.io/badge/-Mysql-FFDD55?style=flat&logo=Mysql&logoColor=white)、![Static Badge](https://img.shields.io/badge/-JavaScript-FFAA85?style=flat&logo=JavaScript&logoColor=white) and ![Static Badge](https://img.shields.io/badge/-Python-A8E6CF?style=flat&logo=Python&logoColor=white) projects and share knowledge in these areas.
 
 ## 🛠 Skills
 - **Front-End：**![Static Badge](https://img.shields.io/badge/-Next.js-60ACFC?style=flat&logo=Next.js&logoColor=white) ![Static Badge](https://img.shields.io/badge/-streamlit-32D3EB?style=flat&logo=streamlit&logoColor=white) ![Static Badge](https://img.shields.io/badge/-Html-5BC49F?style=flat&logo=Html&logoColor=white) ![Static Badge](https://img.shields.io/badge/-Excel-FEB64D?style=flat&logo=Excel&logoColor=white) ![Static Badge](https://img.shields.io/badge/-CSS-FF7C7C?style=flat&logo=CSS&logoColor=white) ![Static Badge](https://img.shields.io/badge/-JavaScript-9287E7?style=flat&logo=JavaScript&logoColor=white)
