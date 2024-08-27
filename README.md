@@ -38,7 +38,7 @@ I'm constantly learning and growing. My current priorities include:
 ## 📫 Contact Me
 - **Email：** [englishyj@gmail.com](englishyj@gmail.com)
 - **Github：** [Github](https://github.com/phoenixlucky)
-- **个人博客：** [Github主页](phoenixlucky.github.io)
+- **个人博客：** [Github主页](https://phoenixlucky.github.io/)
 - **中文开发者还可以通过以下渠道关注我:**
   - **知乎：** [Ethan Wilkins](https://www.zhihu.com/people/wei-jia-6)
 
