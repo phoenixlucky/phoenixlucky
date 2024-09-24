@@ -30,7 +30,7 @@ I work on ![Static Badge](https://img.shields.io/badge/-Mysql-FFDD55?style=flat&
 ### [wei_office_simptool](https://github.com/phoenixlucky/wei_office_simptool)
 A tool library for simplifying office work, providing database operations, Excel processing, mail sending, date and time stamp format conversion, file movement and other common functions, to achieve 1 to 3 lines of code to complete the relevant processing of quick operations.
 
-###  [wei_office_simptoo](https://github.com/phoenixlucky/AutoHotkey))
+###  [wei_office_simptoo](https://github.com/phoenixlucky/AutoHotkey)
 A some scripts for your own use.
 
 ## 🌱 Learning Journey
