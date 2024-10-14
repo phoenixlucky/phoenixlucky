@@ -1,7 +1,7 @@
 <div style="overflow:hidden" class="phoenixlucky">
 
-<a href="https://github.com/phoenixlucky/phoenixlucky" style="max-width:50%;" >
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=phoenixlucky&count_private=true&theme=radical" />
+<a href="https://github.com/phoenixlucky/phoenixlucky" style="max-width:100%;" >
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=phoenixlucky&count_private=true&theme=merko" />
 </a>
 
 
