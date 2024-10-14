@@ -22,8 +22,8 @@ I work on ![Static Badge](https://img.shields.io/badge/-Mysql-FFDD55?style=flat&
 - **Databases：**![Static Badge](https://img.shields.io/badge/-Mysql-81C784?style=flat&logo=Mysql&logoColor=white) ![Static Badge](https://img.shields.io/badge/-mangoDB-4DD0E1?style=flat&logo=mangoDB&logoColor=white)
 - **AI：**![Static Badge](https://img.shields.io/badge/-LLaMA.Alpaca.3-A8E6CF?style=flat&logo=LLaMA.Alpaca.3&logoColor=white) ![Static Badge](https://img.shields.io/badge/-chatGPT.4o-DCE775?style=flat&logo=chatGPT.4o&logoColor=white) ![Static Badge](https://img.shields.io/badge/-command.r.plus-4DD0E1?style=flat&logo=command.r.plus&logoColor=white)  
 
-<a href="https://github.com/phoenixlucky/phoenixlucky" style="max-width:50%;" >
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phoenixlucky&langs_count=8">
+<a href="https://github.com/phoenixlucky/phoenixlucky" style="max-width:100%;" >
+  <img height="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phoenixlucky&langs_count=8">
 </a>
 
 ## 💡 My Products
