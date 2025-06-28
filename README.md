@@ -49,6 +49,8 @@ I work on ![Static Badge](https://img.shields.io/badge/-Mysql-FFDD55?style=for-t
 ![Static Badge](https://img.shields.io/badge/-DEEPSEEK-A8E6CF?style=for-the-badge&logo=DEEPSEEK&logoColor=white) 
 ![Static Badge](https://img.shields.io/badge/-chatGPT4o-DCE775?style=for-the-badge&logo=chatGPT4o&logoColor=white) 
 ![Static Badge](https://img.shields.io/badge/-commandrplus-4DD0E1?style=for-the-badge&logo=commandrplus&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-comfyui-BA68C8?style=for-the-badge&logo=comfyui&logoColor=white)
+
 </details>
 
 <div align="center">
