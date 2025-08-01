@@ -1,17 +1,28 @@
 <div align="center">
   
   <!-- 个人资料卡片 -->
-  <a href="https://github.com/phoenixlucky/phoenixlucky">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=phoenixlucky&count_private=true&theme=radical&show_icons=true&hide_border=true" />
-  </a>
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <a href="https://github.com/phoenixlucky/phoenixlucky">
+      <img height="200" src="https://github-readme-stats.vercel.app/api?username=phoenixlucky&count_private=true&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0D1117&ring_color=5BCDEC&icon_color=5BCDEC" />
+    </a>
+    <a href="https://github.com/phoenixlucky/phoenixlucky">
+      <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phoenixlucky&theme=tokyonight" />
+    </a>
+  </div>
 
   <h1 align="center">
-    Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm phoenixlucky!
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=5BCDEC&center=true&vCenter=true&width=500&height=70&lines=Hi+there+👋,+I'm+phoenixlucky!" />
   </h1>
 
-  <p align="center">
-    <a href="https://github.com/phoenixlucky"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=C0C0C0&center=true&vCenter=true&width=500&height=60&lines=🚀+Full+Stack+Developer+%7C+Data+Analyst+📊;🌱+Always+learning+new+things+💡"></a>
-  </p>
+  <div>
+    <a href="https://github.com/phoenixlucky">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=5BCDEC&center=true&vCenter=true&width=500&height=60&lines=🚀+Full+Stack+Developer+%7C+Data+Analyst+📊;🌱+Always+learning+new+things+💡" />
+    </a>
+  </div>
+
+  <div>
+    <img src="https://github-profile-trophy.vercel.app/?username=phoenixlucky&theme=tokyonight&no-frame=true&row=1&column=6" />
+  </div>
 
 </div>
 
@@ -71,7 +82,7 @@ I'm constantly learning and growing. My current priorities include:
 - 🎨 Explore front-end visualization to broaden my front-end development skills
 - 🧮 Improve my proficiency with algorithms, which are the foundation of good programming
 
-## 📫 Contact Me
+## 📫 Contact Me(联系我)
 <p align="left">
   <a href="mailto:englishyj@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
