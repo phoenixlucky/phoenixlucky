@@ -73,9 +73,18 @@ I work on ![Static Badge](https://img.shields.io/badge/-Mysql-FFDD55?style=for-t
 ## 💡 My Products
 ### [wei_office_simptool](https://github.com/phoenixlucky/wei_office_simptool)
 > A tool library for simplifying office work, providing database operations, Excel processing, mail sending, date and time stamp format conversion, file movement and other common functions, to achieve 1 to 3 lines of code to complete the relevant processing of quick operations.
+>
+> 一个用于简化办公工作的工具库，提供数据库操作、Excel处理、邮件发送、日期时间戳格式转换、文件移动等常用功能，实现1-3行代码即可完成相关处理的快速操作。
 
 ### [AutoHotkey脚本](https://github.com/phoenixlucky/AutoHotkey)
 > A collection of useful AutoHotkey scripts for productivity enhancement.
+>
+> 一个实用的AutoHotkey脚本集合，用于提高工作效率。
+
+### [《史记·补秦记》](https://github.com/phoenixlucky/QinDynasty)
+> An innovative historical research project combining AI technology with archaeological discoveries to reconstruct a more complete and objective history of the Qin Dynasty (221-207 BCE). This project integrates traditional historical records, modern archaeological findings (including Yunmeng Qin bamboo slips, Yuelu Qin bamboo slips, and Liye Qin bamboo slips), and contemporary academic research. Using AI-assisted analysis, it aims to correct historical biases, fill historical gaps, and provide multi-dimensional interpretations of Qin Dynasty's political, military, economic, and cultural aspects. The project follows the structure of "Shiji" (Records of the Grand Historian), including Basic Annals, Hereditary Houses, Ranked Biographies, Tables, and Treaties.
+>
+> 一个创新性的历史研究项目，结合AI技术与考古发现，重建更完整、客观的秦朝（公元前221-207年）历史。本项目整合传统历史记载、现代考古发现（包括云梦秦简、岳麓秦简和里耶秦简）以及当代学术研究。通过AI辅助分析，旨在纠正历史偏见，填补历史空白，并对秦朝的政治、军事、经济和文化等方面提供多维度的诠释。项目遵循《史记》的体例结构，包括本纪、世家、列传、表、书等部分。
 
 ## 🌱 Learning Journey
 I'm constantly learning and growing. My current priorities include:
