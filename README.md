@@ -66,9 +66,9 @@ I work on ![Static Badge](https://img.shields.io/badge/-Mysql-FFDD55?style=for-t
 </details>
 
 <div align="center">
-  <a href="https://github.com/phoenixlucky/phoenixlucky">
+  <!-- <a href="https://github.com/phoenixlucky/phoenixlucky">
     <img height="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phoenixlucky&langs_count=8&layout=compact&theme=rose_pine&hide_border=true">
-  </a>
+  </a> -->
   <a href="https://github.com/phoenixlucky/phoenixlucky">
     <img height="280" src="https://github-readme-streak-stats.herokuapp.com/?user=phoenixlucky&theme=rose-pine&hide_border=true" />
   </a>
