@@ -1,29 +1,30 @@
 <div align="center">
-  
-  <!-- 个人资料卡片 -->
-  <div style="display: flex; justify-content: center; gap: 10px;">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=2,12,20,24&text=Usagi%20Vibe%20Coding%20Space&fontColor=ffffff&fontAlignY=35&desc=Welcome%20to%20phoenixlucky's%20cozy%20bunny-themed%20README&descAlignY=55" />
+
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
     <a href="https://github.com/phoenixlucky/phoenixlucky">
-      <img height="200" src="https://github-readme-stats.vercel.app/api?username=phoenixlucky&count_private=true&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0D1117&ring_color=5BCDEC&icon_color=5BCDEC" />
+      <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phoenixlucky&theme=rose_pine" />
     </a>
     <a href="https://github.com/phoenixlucky/phoenixlucky">
-      <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phoenixlucky&theme=tokyonight" />
     </a>
   </div>
 
+
   <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=32&duration=3000&pause=1000&color=1E3050&center=true&vCenter=true&width=500&height=70&lines=Hi+there+👋,+I'm+phoenixlucky!" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Baloo+2&size=34&duration=2800&pause=1000&color=F48FB1&center=true&vCenter=true&width=560&height=70&lines=Hi+there+%F0%9F%91%8B,+I'm+phoenixlucky!;Usagi+Style+Builder+%F0%9F%90%B0" />
   </h1>
 
   <div>
     <a href="https://github.com/phoenixlucky">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=5BCDEC&center=true&vCenter=true&width=500&height=60&lines=🚀+Full+Stack+Developer+%7C+Data+Analyst+📊;🌱+Always+learning+new+things+💡" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=800&size=24&duration=3200&pause=1000&color=EC6EA5&center=true&vCenter=true&width=600&height=60&lines=%F0%9F%9A%80+Full+Stack+Developer+%7C+Data+Analyst+%F0%9F%93%8A;%F0%9F%90%B0+Cozy+Code,+Cute+Design,+Solid+Delivery" />
     </a>
   </div>
 
-  <div>
-    <img src="https://github-profile-trophy.vercel.app/?username=phoenixlucky&theme=tokyonight&no-frame=true&row=1&column=6" />
-  </div>
-
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=phoenixlucky&label=Usagi%20Visitors&color=f48fb1&style=for-the-badge" />
+    <img src="https://img.shields.io/github/followers/phoenixlucky?label=Fluffy%20Followers&style=for-the-badge&color=ff9eb5" />
+  </p>
 </div>
 
 ## 🚀 About Me
@@ -66,7 +67,16 @@ I work on ![Static Badge](https://img.shields.io/badge/-Mysql-FFDD55?style=for-t
 
 <div align="center">
   <a href="https://github.com/phoenixlucky/phoenixlucky">
-    <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phoenixlucky&langs_count=8&layout=compact&theme=radical&hide_border=true">
+    <img height="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phoenixlucky&langs_count=8&layout=compact&theme=rose_pine&hide_border=true">
+  </a>
+  <a href="https://github.com/phoenixlucky/phoenixlucky">
+    <img height="280" src="https://github-readme-streak-stats.herokuapp.com/?user=phoenixlucky&theme=rose-pine&hide_border=true" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/phoenixlucky/phoenixlucky">
+    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=phoenixlucky&bg_color=fff7fb&color=d16ba5&line=f48fb1&point=f06292&area=true&hide_border=true" />
   </a>
 </div>
 
