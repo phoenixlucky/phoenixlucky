@@ -7,8 +7,10 @@
       <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phoenixlucky&theme=rose_pine" />
     </a>
     <a href="https://github.com/phoenixlucky/phoenixlucky">
+      <img height="200" src="./Usachi.png" alt="Usachi racer" />
     </a>
   </div>
+
 
 
   <h1 align="center">
@@ -28,10 +30,11 @@
 </div>
 
 ## 🚀 About Me
-I'm a ![Static Badge](https://img.shields.io/badge/data_analyst-81C784?style=for-the-badge&logo=data_analyst&logoColor=white) ![Static Badge](https://img.shields.io/badge/full_stack_practitioner-4DD0E1?style=for-the-badge&logo=full_stack_practitioner&logoColor=white) and advocate for ![Static Badge](https://img.shields.io/badge/systematic_management-BA68C8?style=for-the-badge&logo=systematic_management&logoColor=white)
+I'm a soft-energy ![Static Badge](https://img.shields.io/badge/data_analyst-F8C8DC?style=for-the-badge&logo=data_analyst&logoColor=4A4A4A) ![Static Badge](https://img.shields.io/badge/full_stack_practitioner-BDE0FE?style=for-the-badge&logo=full_stack_practitioner&logoColor=4A4A4A) who loves calm, systematic building.  
+我是一个偏软萌风格的 ![Static Badge](https://img.shields.io/badge/data_analyst-F8C8DC?style=for-the-badge&logo=data_analyst&logoColor=4A4A4A) ![Static Badge](https://img.shields.io/badge/full_stack_practitioner-BDE0FE?style=for-the-badge&logo=full_stack_practitioner&logoColor=4A4A4A) ，喜欢把复杂问题做成有条理、可复用的小方案。
 
-
-I work on ![Static Badge](https://img.shields.io/badge/-Mysql-FFDD55?style=for-the-badge&logo=Mysql&logoColor=black) ![Static Badge](https://img.shields.io/badge/-JavaScript-FFAA85?style=for-the-badge&logo=JavaScript&logoColor=black) and ![Static Badge](https://img.shields.io/badge/-Python-A8E6CF?style=for-the-badge&logo=Python&logoColor=black) projects and share knowledge in these areas.
+I build with ![Static Badge](https://img.shields.io/badge/-Mysql-CCE3DE?style=for-the-badge&logo=Mysql&logoColor=4A4A4A) ![Static Badge](https://img.shields.io/badge/-JavaScript-FFE5A5?style=for-the-badge&logo=JavaScript&logoColor=4A4A4A) and ![Static Badge](https://img.shields.io/badge/-Python-CDB4DB?style=for-the-badge&logo=Python&logoColor=4A4A4A), then share practical notes along the way.  
+我主要使用 ![Static Badge](https://img.shields.io/badge/-Mysql-CCE3DE?style=for-the-badge&logo=Mysql&logoColor=4A4A4A) ![Static Badge](https://img.shields.io/badge/-JavaScript-FFE5A5?style=for-the-badge&logo=JavaScript&logoColor=4A4A4A) 和 ![Static Badge](https://img.shields.io/badge/-Python-CDB4DB?style=for-the-badge&logo=Python&logoColor=4A4A4A) 做项目，也会持续整理并分享可落地的经验。
 
 
 ## 🛠 Skills
@@ -39,29 +42,29 @@ I work on ![Static Badge](https://img.shields.io/badge/-Mysql-FFDD55?style=for-t
 <summary>Click to expand!</summary>
 
 ### Front-End
-![Static Badge](https://img.shields.io/badge/-NextJS-60ACFC?style=for-the-badge&logo=Next&logoColor=white) 
-![Static Badge](https://img.shields.io/badge/-streamlit-32D3EB?style=for-the-badge&logo=streamlit&logoColor=white) 
-![Static Badge](https://img.shields.io/badge/-Html-5BC49F?style=for-the-badge&logo=Html&logoColor=white) 
-![Static Badge](https://img.shields.io/badge/-Excel-FEB64D?style=for-the-badge&logo=Excel&logoColor=white) 
-![Static Badge](https://img.shields.io/badge/-CSS-FF7C7C?style=for-the-badge&logo=CSS&logoColor=white) 
-![Static Badge](https://img.shields.io/badge/-JavaScript-9287E7?style=for-the-badge&logo=JavaScript&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-NextJS-F8C8DC?style=for-the-badge&logo=Next&logoColor=4A4A4A) 
+![Static Badge](https://img.shields.io/badge/-streamlit-BEE3DB?style=for-the-badge&logo=streamlit&logoColor=4A4A4A) 
+![Static Badge](https://img.shields.io/badge/-Html-FFD6A5?style=for-the-badge&logo=Html&logoColor=4A4A4A) 
+![Static Badge](https://img.shields.io/badge/-Excel-CDE7BE?style=for-the-badge&logo=Excel&logoColor=4A4A4A) 
+![Static Badge](https://img.shields.io/badge/-CSS-BDE0FE?style=for-the-badge&logo=CSS&logoColor=4A4A4A) 
+![Static Badge](https://img.shields.io/badge/-JavaScript-FFE5A5?style=for-the-badge&logo=JavaScript&logoColor=4A4A4A)
 
 ### Back-End
-![Static Badge](https://img.shields.io/badge/-Python-9287E7?style=for-the-badge&logo=Python&logoColor=white) 
-![Static Badge](https://img.shields.io/badge/-VBA-FFDD55?style=for-the-badge&logo=VBA&logoColor=white) 
-![Static Badge](https://img.shields.io/badge/-JAVA-FFAA85?style=for-the-badge&logo=JAVA&logoColor=white) 
-![Static Badge](https://img.shields.io/badge/-BAT-A8E6CF?style=for-the-badge&logo=BAT&logoColor=white)
-![Static Badge](https://img.shields.io/badge/-AutoHotkey-DCE775?style=for-the-badge&logo=AutoHotkey&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-Python-CDB4DB?style=for-the-badge&logo=Python&logoColor=4A4A4A) 
+![Static Badge](https://img.shields.io/badge/-VBA-FFC8DD?style=for-the-badge&logo=VBA&logoColor=4A4A4A) 
+![Static Badge](https://img.shields.io/badge/-JAVA-BDE0FE?style=for-the-badge&logo=JAVA&logoColor=4A4A4A) 
+![Static Badge](https://img.shields.io/badge/-BAT-D8F3DC?style=for-the-badge&logo=BAT&logoColor=4A4A4A)
+![Static Badge](https://img.shields.io/badge/-AutoHotkey-FFE8A1?style=for-the-badge&logo=AutoHotkey&logoColor=4A4A4A)
 
 ### Databases
-![Static Badge](https://img.shields.io/badge/-Mysql-81C784?style=for-the-badge&logo=Mysql&logoColor=white) 
-![Static Badge](https://img.shields.io/badge/-mangoDB-4DD0E1?style=for-the-badge&logo=mangoDB&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-Mysql-CCE3DE?style=for-the-badge&logo=Mysql&logoColor=4A4A4A) 
+![Static Badge](https://img.shields.io/badge/-MongoDB-FAD2E1?style=for-the-badge&logo=MongoDB&logoColor=4A4A4A)
 
 ### AI
-![Static Badge](https://img.shields.io/badge/-DEEPSEEK-A8E6CF?style=for-the-badge&logo=DEEPSEEK&logoColor=white) 
-![Static Badge](https://img.shields.io/badge/-chatGPT4o-DCE775?style=for-the-badge&logo=chatGPT4o&logoColor=white) 
-![Static Badge](https://img.shields.io/badge/-commandrplus-4DD0E1?style=for-the-badge&logo=commandrplus&logoColor=white)
-![Static Badge](https://img.shields.io/badge/-comfyui-BA68C8?style=for-the-badge&logo=comfyui&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-DEEPSEEK-D0F4DE?style=for-the-badge&logo=DEEPSEEK&logoColor=4A4A4A) 
+![Static Badge](https://img.shields.io/badge/-chatGPT4o-CDE7FF?style=for-the-badge&logo=chatGPT4o&logoColor=4A4A4A) 
+![Static Badge](https://img.shields.io/badge/-commandrplus-E4C1F9?style=for-the-badge&logo=commandrplus&logoColor=4A4A4A)
+![Static Badge](https://img.shields.io/badge/-comfyui-FFE0B2?style=for-the-badge&logo=comfyui&logoColor=4A4A4A)
 
 </details>
 
@@ -97,9 +100,12 @@ I work on ![Static Badge](https://img.shields.io/badge/-Mysql-FFDD55?style=for-t
 > 一个创新性的历史研究项目，结合AI技术与考古发现，重建更完整、客观的秦朝（公元前221-207年）历史。本项目整合传统历史记载、现代考古发现（包括云梦秦简、岳麓秦简和里耶秦简）以及当代学术研究。通过AI辅助分析，旨在纠正历史偏见，填补历史空白，并对秦朝的政治、军事、经济和文化等方面提供多维度的诠释。项目遵循《史记》的体例结构，包括本纪、世家、列传、表、书等部分。
 
 ## 🌱 Learning Journey
-I'm constantly learning and growing. My current priorities include:
-- 🎨 Explore front-end visualization to broaden my front-end development skills
-- 🧮 Improve my proficiency with algorithms, which are the foundation of good programming
+I'm learning in a cozy, steady rhythm and turning tiny progress into long-term growth.  
+我正在用一种轻松但持续的节奏学习，把每一点小进步都沉淀成长期能力。
+
+My current priorities include / 当前学习重点：
+- 🎨 Explore front-end visualization to level up design expression and interaction clarity. | 探索前端可视化，提升界面表达力与交互清晰度。
+- 🧮 Strengthen algorithm fundamentals to write cleaner, faster, and more reliable code. | 打牢算法基础，写出更清晰、更高效、更稳定的代码。
 
 ## 📫 Contact Me(联系我)
 <p align="left">
