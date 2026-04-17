@@ -156,24 +156,24 @@ I build tools that reduce repetitive work and turn messy processes into reusable
       <p><strong>Highlights:</strong> database, Excel, file handling, text analysis, email, AI chat, utilities</p>
     </td>
     <td valign="top" width="50%">
-      <h3><a href="https://github.com/phoenixlucky/pythonBB">pythonBB</a></h3>
-      <p>Electron desktop app for managing Python, Conda, venv, and pip workflows on Windows.</p>
-      <p>用于统一管理 Python、Conda、venv 与 pip 流程的 Windows 桌面工具。</p>
-      <p><strong>Highlights:</strong> environment scan, Conda operations, venv creation, package management</p>
+      <h3><a href="https://github.com/phoenixlucky/WeiOpenClawManager">WeiOpenClawManager</a></h3>
+      <p>Electron desktop client for editing OpenClaw configs, managing workspace files and skills, and launching local tools.</p>
+      <p>用于编辑 OpenClaw 配置、管理工作区文件与技能、并启动本地工具的 Electron 桌面客户端。</p>
+      <p><strong>Highlights:</strong> config editor, workspace inspection, skill metadata tools, update checks, local gateway launch</p>
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <h3><a href="https://github.com/phoenixlucky/AutoHotkey">AutoHotkey</a></h3>
-      <p>A practical script collection for reducing manual work and improving daily efficiency.</p>
-      <p>一个面向日常效率提升的 AutoHotkey 脚本集合。</p>
-      <p><strong>Highlights:</strong> shortcuts, workflow helpers, repetitive task reduction</p>
+      <h3><a href="https://github.com/phoenixlucky/WeiScheduler">WeiScheduler</a></h3>
+      <p>Desktop scheduler for running Python scripts with Cron rules, Conda environments, logs, and background execution support.</p>
+      <p>支持 Cron 规则、Conda 环境、日志记录与后台运行的 Python 脚本桌面调度器。</p>
+      <p><strong>Highlights:</strong> task scheduling, Conda support, run history, next-run visibility, Windows installer</p>
     </td>
     <td valign="top" width="50%">
-      <h3><a href="https://github.com/phoenixlucky/QinDynasty">《史记·补秦记》</a></h3>
-      <p>A long-form historical reconstruction project combining AI assistance and archaeological research.</p>
-      <p>一个结合 AI 与考古研究、重构秦朝历史叙事的长期项目。</p>
-      <p><strong>Highlights:</strong> historical synthesis, structured writing, research-oriented workflow</p>
+      <h3><a href="https://github.com/phoenixlucky/TrendForecasting">TrendForecasting</a></h3>
+      <p>Full-stack forecasting tool that turns Excel, SQLite, or MySQL data into predictive charts through a web workflow.</p>
+      <p>将 Excel、SQLite 或 MySQL 数据接入预测模型并生成图表的全栈 Web 工具。</p>
+      <p><strong>Highlights:</strong> React dashboard, Node gateway, Python forecasting service, multi-model comparison, database connectors</p>
     </td>
   </tr>
 </table>
