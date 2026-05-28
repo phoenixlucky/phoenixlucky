@@ -176,25 +176,48 @@ I build tools that reduce repetitive work and turn messy processes into reusable
 </p>
 
 ### 🖥️ Applications
-<div align="center">
-
-<a href="https://github.com/phoenixlucky/TrendForecasting">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=phoenixlucky&repo=TrendForecasting&theme=rose_pine&hide_border=true&border_radius=12" alt="TrendForecasting" />
-</a>
-<a href="https://github.com/phoenixlucky/WeiScheduler">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=phoenixlucky&repo=WeiScheduler&theme=rose_pine&hide_border=true&border_radius=12" alt="WeiScheduler" />
-</a>
-
-<br />
-
-<a href="https://github.com/phoenixlucky/WeiPython">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=phoenixlucky&repo=WeiPython&theme=rose_pine&hide_border=true&border_radius=12" alt="WeiPython" />
-</a>
-<a href="https://github.com/phoenixlucky/clean_safe_plus">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=phoenixlucky&repo=clean_safe_plus&theme=rose_pine&hide_border=true&border_radius=12" alt="clean_safe_plus" />
-</a>
-
-</div>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h4><a href="https://github.com/phoenixlucky/TrendForecasting">TrendForecasting</a></h4>
+      <p>多模型时序预测工具，连接 Excel/SQLite/MySQL 数据 → 趋势预测 → 图表展示</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-fadadd?style=flat-square&logo=javascript&logoColor=2b2b2b" alt="JS" />
+        <img src="https://img.shields.io/badge/Python-d7f3df?style=flat-square&logo=python&logoColor=2b2b2b" alt="Python" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=2b2b2b" alt="React" />
+      </p>
+    </td>
+    <td valign="top" width="50%">
+      <h4><a href="https://github.com/phoenixlucky/WeiScheduler">WeiScheduler</a></h4>
+      <p>基于 Cron 表达式的本地 Python 脚本调度器，支持 Conda 环境与后台运行</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-8fce7c?style=flat-square&logo=nodedotjs&logoColor=2b2b2b" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Electron-c7ecff?style=flat-square&logo=electron&logoColor=2b2b2b" alt="Electron" />
+        <img src="https://img.shields.io/badge/Cron-ffe6a7?style=flat-square" alt="Cron" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h4><a href="https://github.com/phoenixlucky/WeiPython">WeiPython</a></h4>
+      <p>Python/Conda/venv 环境管理桌面工具，统一管理包与环境操作</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-fadadd?style=flat-square&logo=javascript&logoColor=2b2b2b" alt="JS" />
+        <img src="https://img.shields.io/badge/Python-d7f3df?style=flat-square&logo=python&logoColor=2b2b2b" alt="Python" />
+        <img src="https://img.shields.io/badge/Electron-c7ecff?style=flat-square&logo=electron&logoColor=2b2b2b" alt="Electron" />
+      </p>
+    </td>
+    <td valign="top" width="50%">
+      <h4><a href="https://github.com/phoenixlucky/clean_safe_plus">clean_safe_plus</a></h4>
+      <p>Windows C 盘安全清理工具，图形界面 + 命令行双模式</p>
+      <p>
+        <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
+        <img src="https://img.shields.io/badge/Batchfile-4d4d4d?style=flat-square" alt="Batchfile" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ### 📦 Library
 <p>
