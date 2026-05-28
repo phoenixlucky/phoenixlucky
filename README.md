@@ -290,13 +290,13 @@ I build tools that reduce repetitive work and turn messy processes into reusable
 
 <!-- Three-Column Stats -->
 <a href="https://github.com/phoenixlucky/phoenixlucky">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=phoenixlucky&show_icons=true&hide_border=true&count_private=true&border_radius=12&bg_color=fff7fb&title_color=d16ba5&text_color=555555&icon_color=f48fb1" alt="github stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=phoenixlucky&theme=rose_pine" alt="github stats" />
 </a>
 <a href="https://github.com/phoenixlucky/phoenixlucky">
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=phoenixlucky&theme=rose-pine&hide_border=true&border_radius=12" alt="streak stats" />
 </a>
 <a href="https://github.com/phoenixlucky/phoenixlucky">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phoenixlucky&layout=compact&hide_border=true&border_radius=12&langs_count=6&bg_color=fff7fb&title_color=d16ba5&text_color=555555" alt="top languages" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phoenixlucky&theme=rose_pine" alt="top languages" />
 </a>
 
 <br /><br />
