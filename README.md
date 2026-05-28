@@ -156,25 +156,59 @@ I build tools that reduce repetitive work and turn messy processes into reusable
 
 ## 💡 Featured Projects
 
+### 🤖 Agent Skills
+<p>
+  <a href="https://github.com/phoenixlucky/weiliaozi-skill">
+    <img src="https://img.shields.io/badge/weiliaozi--skill-ffe6a7?style=for-the-badge" alt="weiliaozi-skill" />
+  </a>
+  <a href="https://github.com/phoenixlucky/financial-analyst-skill">
+    <img src="https://img.shields.io/badge/financial--analyst--skill-dcf2d3?style=for-the-badge" alt="financial-analyst-skill" />
+  </a>
+  <a href="https://github.com/phoenixlucky/zerotoken-skill">
+    <img src="https://img.shields.io/badge/zerotoken--skill-cde7ff?style=for-the-badge" alt="zerotoken-skill" />
+  </a>
+  <a href="https://github.com/phoenixlucky/business-data-analyst-skill">
+    <img src="https://img.shields.io/badge/business--data--analyst--skill-d9f0c7?style=for-the-badge" alt="business-data-analyst-skill" />
+  </a>
+  <a href="https://github.com/phoenixlucky/moon-lovers-skill">
+    <img src="https://img.shields.io/badge/moon--lovers--skill-f4d2e7?style=for-the-badge" alt="moon-lovers-skill" />
+  </a>
+</p>
+
+### 🖥️ Applications
 <div align="center">
 
-<a href="https://github.com/phoenixlucky/wei-data-shu">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=phoenixlucky&repo=wei-data-shu&theme=rose_pine&hide_border=true&border_radius=12" alt="wei-data-shu" />
+<a href="https://github.com/phoenixlucky/TrendForecasting">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=phoenixlucky&repo=TrendForecasting&theme=rose_pine&hide_border=true&border_radius=12" alt="TrendForecasting" />
 </a>
-<a href="https://github.com/phoenixlucky/WeiOpenClawManager">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=phoenixlucky&repo=WeiOpenClawManager&theme=rose_pine&hide_border=true&border_radius=12" alt="WeiOpenClawManager" />
+<a href="https://github.com/phoenixlucky/WeiScheduler">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=phoenixlucky&repo=WeiScheduler&theme=rose_pine&hide_border=true&border_radius=12" alt="WeiScheduler" />
 </a>
 
 <br />
 
-<a href="https://github.com/phoenixlucky/WeiScheduler">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=phoenixlucky&repo=WeiScheduler&theme=rose_pine&hide_border=true&border_radius=12" alt="WeiScheduler" />
+<a href="https://github.com/phoenixlucky/WeiPython">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=phoenixlucky&repo=WeiPython&theme=rose_pine&hide_border=true&border_radius=12" alt="WeiPython" />
 </a>
-<a href="https://github.com/phoenixlucky/TrendForecasting">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=phoenixlucky&repo=TrendForecasting&theme=rose_pine&hide_border=true&border_radius=12" alt="TrendForecasting" />
+<a href="https://github.com/phoenixlucky/clean_safe_plus">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=phoenixlucky&repo=clean_safe_plus&theme=rose_pine&hide_border=true&border_radius=12" alt="clean_safe_plus" />
 </a>
 
 </div>
+
+### 📦 Library
+<p>
+  <a href="https://github.com/phoenixlucky/wei-data-shu">
+    <img src="https://img.shields.io/badge/wei--data--shu-Python%20toolkit-f6c8d7?style=for-the-badge&logo=python&logoColor=2b2b2b" alt="wei-data-shu" />
+  </a>
+</p>
+
+### ⚙️ Scripts
+<p>
+  <a href="https://github.com/phoenixlucky/AutoHotkey">
+    <img src="https://img.shields.io/badge/AutoHotkey-Personal%20automation-d9f0c7?style=for-the-badge&logo=autohotkey&logoColor=2b2b2b" alt="AutoHotkey" />
+  </a>
+</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=2,3,6,11&text=&fontSize=0" />
 
