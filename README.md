@@ -1,17 +1,23 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=6,11,20,24&text=PHOENIXLUCKY&fontColor=ffffff&fontAlignY=34&fontSize=48&animation=fadeIn&desc=Designing%20practical%20tools%2C%20thoughtful%20interfaces%2C%20and%20calm%20digital%20systems&descAlignY=56&descSize=18" />
+<!-- Top Wave Banner — Phoenix Flame Gradient -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=2,3,6,11&text=%F0%9F%94%A5%20PHOENIXLUCKY&fontColor=ffffff&fontAlignY=32&fontSize=50&animation=fadeIn&desc=From%20chaos%20to%20clarity%2C%20rising%20with%20code%20%C2%B7%20%E5%9C%A8%E6%B7%B7%E6%B2%8C%E4%B8%AD%E6%9E%84%E5%BB%BA%2C%20%E4%BB%A5%E4%BB%A3%E7%A0%81%E6%B6%85%E6%A7%83&descAlignY=56&descSize=17&descFontWeight=300" />
 
 <br />
-<br />
 
-<img src="./Usachi.png" width="160" alt="Usachi mascot" />
+<!-- Dual Mascots: Usachi + Phoenix -->
+<img src="./Usachi.png" width="130" alt="Usachi mascot" />
+&nbsp;&nbsp;&nbsp;
+<img src="./phoenix.svg" width="130" alt="Phoenix emblem" />
 
-# phoenixlucky
+<h1>🐦‍🔥 phoenixlucky</h1>
 
-### Calm builder for data workflows, office automation, and practical software
-### 专注数据流程、办公自动化与实用软件构建的开发者
+<h3>
+  Calm builder for data workflows, office automation, and practical software<br />
+  专注数据流程、办公自动化与实用软件构建的开发者
+</h3>
 
+<!-- Profile Badges -->
 <p>
   <a href="https://github.com/phoenixlucky">
     <img src="https://komarev.com/ghpvc/?username=phoenixlucky&label=Profile%20Views&color=f48fb1&style=for-the-badge" alt="profile views" />
@@ -22,48 +28,53 @@
   <a href="https://github.com/phoenixlucky?tab=repositories">
     <img src="https://img.shields.io/badge/Focus-Practical%20Builds-f7b2d0?style=for-the-badge" alt="focus practical builds" />
   </a>
+  <a href="#-about">
+    <img src="https://img.shields.io/badge/%F0%9F%94%A5%20Phoenix%20Mindset-Rise%20From%20Chaos-ff9a56?style=for-the-badge" alt="phoenix mindset" />
+  </a>
 </p>
 
+<!-- Navigation -->
 <p>
-  <a href="#-about">About</a> •
-  <a href="#-focus">Focus</a> •
-  <a href="#-tech-stack">Tech Stack</a> •
-  <a href="#-featured-projects">Featured Projects</a> •
-  <a href="#-github-insights">GitHub Insights</a> •
-  <a href="#-learning-now">Learning Now</a> •
-  <a href="#-contact">Contact</a>
+  <a href="#-about">🔥 About</a> •
+  <a href="#-focus">✨ Focus</a> •
+  <a href="#-tech-stack">🧰 Tech Stack</a> •
+  <a href="#-featured-projects">💡 Projects</a> •
+  <a href="#-github-insights">📈 Insights</a> •
+  <a href="#-learning-now">🌱 Learning</a> •
+  <a href="#-contact">📫 Contact</a>
 </p>
 
 </div>
 
----
+<!-- Section Divider — Fire to Rose -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=2,3,6,11&text=&fontSize=0" />
 
-## 🌷 About
+## 🔥 About
 
-> Build with patience, ship with clarity.
+> Rise from complexity. Build with clarity.
 >
-> 用稳定的节奏构建，用清晰的方式交付。
+> 于混沌中涅槃，以清晰构建。
 
 I build tools that reduce repetitive work and turn messy processes into reusable systems. My work usually sits between data handling, automation, desktop utilities, and lightweight full-stack delivery.
 
-我更关注“把复杂工作整理成可复用流程”这件事。项目通常落在数据处理、办公自动化、桌面工具，以及偏轻量但实用的全栈交付上。
+我更关注"把复杂工作整理成可复用流程"这件事。项目通常落在数据处理、办公自动化、桌面工具，以及偏轻量但实用的全栈交付上。
 
 <table>
   <tr>
     <td valign="top" width="33%">
-      <strong>Role</strong><br />
+      <strong>📌 Role</strong><br />
       Data analyst<br />
       Full-stack practitioner<br />
       Toolmaker
     </td>
     <td valign="top" width="33%">
-      <strong>Style</strong><br />
+      <strong>🎯 Style</strong><br />
       Calm and systematic<br />
       Practical over flashy<br />
       Reusable over disposable
     </td>
     <td valign="top" width="33%">
-      <strong>Interests</strong><br />
+      <strong>💭 Interests</strong><br />
       Python tooling<br />
       Office automation<br />
       Interface polish
@@ -71,42 +82,38 @@ I build tools that reduce repetitive work and turn messy processes into reusable
   </tr>
 </table>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,11,20,24&text=&fontSize=0" />
+
 ## ✨ Focus
 
 <table>
   <tr>
     <td valign="top" width="50%">
-      <strong>Automation First</strong><br />
-      I like turning repetitive office and data tasks into small, dependable tools.
-      <br /><br />
-      <strong>自动化优先</strong><br />
+      <strong>🤖 Automation First · 自动化优先</strong><br />
+      I like turning repetitive office and data tasks into small, dependable tools.<br />
       我倾向于把重复的办公和数据任务沉淀成稳定、可复用的小工具。
     </td>
     <td valign="top" width="50%">
-      <strong>Useful Interfaces</strong><br />
-      I care about software that is not only functional, but also pleasant to use.
-      <br /><br />
-      <strong>注重使用体验</strong><br />
+      <strong>🎨 Useful Interfaces · 注重使用体验</strong><br />
+      I care about software that is not only functional, but also pleasant to use.<br />
       我希望工具不仅能完成任务，也能在交互上足够顺手、舒服。
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <strong>Practical Engineering</strong><br />
-      I prefer code and structure that support long-term maintenance instead of one-off tricks.
-      <br /><br />
-      <strong>偏向长期可维护</strong><br />
+      <strong>🏗️ Practical Engineering · 偏向长期可维护</strong><br />
+      I prefer code and structure that support long-term maintenance instead of one-off tricks.<br />
       我更重视能长期维护的代码和结构，而不是一次性的临时方案。
     </td>
     <td valign="top" width="50%">
-      <strong>Bilingual Sharing</strong><br />
-      I enjoy documenting ideas in both English and Chinese for broader reuse.
-      <br /><br />
-      <strong>双语表达</strong><br />
+      <strong>🌏 Bilingual Sharing · 双语表达</strong><br />
+      I enjoy documenting ideas in both English and Chinese for broader reuse.<br />
       我会尽量用中英双语整理想法，方便沉淀和传播。
     </td>
   </tr>
 </table>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=2,3,6,11&text=&fontSize=0" />
 
 ## 🧰 Tech Stack
 
@@ -116,19 +123,19 @@ I build tools that reduce repetitive work and turn messy processes into reusable
   <img src="https://img.shields.io/badge/JavaScript-ffe6a7?style=for-the-badge&logo=javascript&logoColor=2b2b2b" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Java-cde7ff?style=for-the-badge&logo=openjdk&logoColor=2b2b2b" alt="Java" />
   <img src="https://img.shields.io/badge/VBA-f4d2e7?style=for-the-badge" alt="VBA" />
-  <img src="https://img.shields.io/badge/AutoHotkey-d9f0c7?style=for-the-badge" alt="AutoHotkey" />
+  <img src="https://img.shields.io/badge/AutoHotkey-d9f0c7?style=for-the-badge&logo=autohotkey&logoColor=2b2b2b" alt="AutoHotkey" />
 </p>
 
-### App and Web
+### App & Web
 <p>
   <img src="https://img.shields.io/badge/Next.js-fadadd?style=for-the-badge&logo=nextdotjs&logoColor=2b2b2b" alt="Next.js" />
   <img src="https://img.shields.io/badge/Electron-c7ecff?style=for-the-badge&logo=electron&logoColor=2b2b2b" alt="Electron" />
   <img src="https://img.shields.io/badge/Streamlit-dcf2d3?style=for-the-badge&logo=streamlit&logoColor=2b2b2b" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/HTML-ffd7b5?style=for-the-badge&logo=html5&logoColor=2b2b2b" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-cfe3ff?style=for-the-badge&logo=css&logoColor=2b2b2b" alt="CSS" />
+  <img src="https://img.shields.io/badge/HTML5-ffd7b5?style=for-the-badge&logo=html5&logoColor=2b2b2b" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-cfe3ff?style=for-the-badge&logo=css3&logoColor=2b2b2b" alt="CSS3" />
 </p>
 
-### Data and Automation
+### Data & Automation
 <p>
   <img src="https://img.shields.io/badge/MySQL-cfe7de?style=for-the-badge&logo=mysql&logoColor=2b2b2b" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-f9d7e5?style=for-the-badge&logo=mongodb&logoColor=2b2b2b" alt="MongoDB" />
@@ -137,7 +144,7 @@ I build tools that reduce repetitive work and turn messy processes into reusable
   <img src="https://img.shields.io/badge/Automation-f7c7dc?style=for-the-badge" alt="Automation" />
 </p>
 
-### AI and Tools
+### AI & Tools
 <p>
   <img src="https://img.shields.io/badge/ChatGPT-cde7ff?style=for-the-badge&logo=openai&logoColor=2b2b2b" alt="ChatGPT" />
   <img src="https://img.shields.io/badge/DeepSeek-d7f3df?style=for-the-badge" alt="DeepSeek" />
@@ -145,68 +152,87 @@ I build tools that reduce repetitive work and turn messy processes into reusable
   <img src="https://img.shields.io/badge/Ollama-e8d2f7?style=for-the-badge" alt="Ollama" />
 </p>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,11,20,24&text=&fontSize=0" />
+
 ## 💡 Featured Projects
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3><a href="https://github.com/phoenixlucky/wei-data-shu">wei-data-shu</a></h3>
-      <p>Domain-oriented Python toolkit for office automation and data processing.</p>
-      <p>面向办公自动化与数据处理的 Python 工具库。</p>
-      <p><strong>Highlights:</strong> database, Excel, file handling, text analysis, email, AI chat, utilities</p>
-    </td>
-    <td valign="top" width="50%">
-      <h3><a href="https://github.com/phoenixlucky/WeiOpenClawManager">WeiOpenClawManager</a></h3>
-      <p>Electron desktop client for editing OpenClaw configs, managing workspace files and skills, and launching local tools.</p>
-      <p>用于编辑 OpenClaw 配置、管理工作区文件与技能、并启动本地工具的 Electron 桌面客户端。</p>
-      <p><strong>Highlights:</strong> config editor, workspace inspection, skill metadata tools, update checks, local gateway launch</p>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <h3><a href="https://github.com/phoenixlucky/WeiScheduler">WeiScheduler</a></h3>
-      <p>Desktop scheduler for running Python scripts with Cron rules, Conda environments, logs, and background execution support.</p>
-      <p>支持 Cron 规则、Conda 环境、日志记录与后台运行的 Python 脚本桌面调度器。</p>
-      <p><strong>Highlights:</strong> task scheduling, Conda support, run history, next-run visibility, Windows installer</p>
-    </td>
-    <td valign="top" width="50%">
-      <h3><a href="https://github.com/phoenixlucky/TrendForecasting">TrendForecasting</a></h3>
-      <p>Full-stack forecasting tool that turns Excel, SQLite, or MySQL data into predictive charts through a web workflow.</p>
-      <p>将 Excel、SQLite 或 MySQL 数据接入预测模型并生成图表的全栈 Web 工具。</p>
-      <p><strong>Highlights:</strong> React dashboard, Node gateway, Python forecasting service, multi-model comparison, database connectors</p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<a href="https://github.com/phoenixlucky/wei-data-shu">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=phoenixlucky&repo=wei-data-shu&theme=rose_pine&hide_border=true&border_radius=12" alt="wei-data-shu" />
+</a>
+<a href="https://github.com/phoenixlucky/WeiOpenClawManager">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=phoenixlucky&repo=WeiOpenClawManager&theme=rose_pine&hide_border=true&border_radius=12" alt="WeiOpenClawManager" />
+</a>
+
+<br />
+
+<a href="https://github.com/phoenixlucky/WeiScheduler">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=phoenixlucky&repo=WeiScheduler&theme=rose_pine&hide_border=true&border_radius=12" alt="WeiScheduler" />
+</a>
+<a href="https://github.com/phoenixlucky/TrendForecasting">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=phoenixlucky&repo=TrendForecasting&theme=rose_pine&hide_border=true&border_radius=12" alt="TrendForecasting" />
+</a>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=2,3,6,11&text=&fontSize=0" />
 
 ## 📈 GitHub Insights
 
 <div align="center">
-  <a href="https://github.com/phoenixlucky/phoenixlucky">
-    <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phoenixlucky&theme=rose_pine" alt="profile summary" />
-  </a>
+
+<!-- Profile Summary Card -->
+<a href="https://github.com/phoenixlucky/phoenixlucky">
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phoenixlucky&theme=rose_pine" alt="profile summary" />
+</a>
+
+<br /><br />
+
+<!-- Three-Column Stats -->
+<a href="https://github.com/phoenixlucky/phoenixlucky">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=phoenixlucky&show_icons=true&theme=rose_pine&hide_border=true&count_private=true&border_radius=12" alt="github stats" />
+</a>
+<a href="https://github.com/phoenixlucky/phoenixlucky">
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=phoenixlucky&theme=rose-pine&hide_border=true&border_radius=12" alt="streak stats" />
+</a>
+<a href="https://github.com/phoenixlucky/phoenixlucky">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phoenixlucky&layout=compact&theme=rose_pine&hide_border=true&border_radius=12&langs_count=6" alt="top languages" />
+</a>
+
+<br /><br />
+
+<!-- Contribution Snake (auto-generated by GitHub Action) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phoenixlucky/phoenixlucky/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/phoenixlucky/phoenixlucky/output/github-contribution-grid-snake.svg" />
+  <img width="95%" alt="github contribution snake" src="https://raw.githubusercontent.com/phoenixlucky/phoenixlucky/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<br /><br />
+
+<!-- Activity Graph -->
+<a href="https://github.com/phoenixlucky/phoenixlucky">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=phoenixlucky&bg_color=fff7fb&color=d16ba5&line=f48fb1&point=f06292&area=true&hide_border=true&hide_title=true" alt="activity graph" />
+</a>
+
 </div>
 
-<div align="center">
-  <a href="https://github.com/phoenixlucky/phoenixlucky">
-    <img height="260" src="https://github-readme-streak-stats.herokuapp.com/?user=phoenixlucky&theme=rose-pine&hide_border=true" alt="streak stats" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/phoenixlucky/phoenixlucky">
-    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=phoenixlucky&bg_color=fff7fb&color=d16ba5&line=f48fb1&point=f06292&area=true&hide_border=true" alt="activity graph" />
-  </a>
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,11,20,24&text=&fontSize=0" />
 
 ## 🌱 Learning Now
+
+> 🔥 What burns out can be rebuilt. What is learned becomes the next foundation.
+>
+> 烧尽的可以重燃，学到的成为下一块基石。
 
 I am currently refining both engineering depth and interface quality, with a strong bias toward practical output.
 
 我最近在同时推进工程能力和界面表达，希望做出既稳定又更有质感的作品。
 
-- Front-end visualization and interaction clarity
-- Algorithm fundamentals and implementation quality
-- Packaging better developer and office productivity tools
+- 🎯 Front-end visualization and interaction clarity
+- 🎯 Algorithm fundamentals and implementation quality
+- 🎯 Packaging better developer and office productivity tools
 
 ## 📫 Contact
 
@@ -228,5 +254,15 @@ I am currently refining both engineering depth and interface quality, with a str
 ---
 
 <div align="center">
+  <sub>
+    🔥 Rise from chaos, build with clarity, ship with warmth.<br />
+    于混沌中涅槃，以清晰构建，用温度交付。
+  </sub>
+  <br /><br />
   <sub>Thanks for visiting this page. Practical ideas, careful execution, and a little bit of design warmth.</sub>
+  <br />
+  <sub>感谢访问。实用的想法、仔细的执行、以及一点设计的温度。</sub>
 </div>
+
+<!-- Bottom Wave Footer — Phoenix Flame -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=2,3,6,11&text=&fontSize=0&section=footer" />
