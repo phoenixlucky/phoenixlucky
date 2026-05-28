@@ -157,23 +157,50 @@ I build tools that reduce repetitive work and turn messy processes into reusable
 ## 💡 Featured Projects
 
 ### 🤖 Agent Skills
-<p>
-  <a href="https://github.com/phoenixlucky/weiliaozi-skill">
-    <img src="https://img.shields.io/badge/weiliaozi--skill-ffe6a7?style=for-the-badge" alt="weiliaozi-skill" />
-  </a>
-  <a href="https://github.com/phoenixlucky/financial-analyst-skill">
-    <img src="https://img.shields.io/badge/financial--analyst--skill-dcf2d3?style=for-the-badge" alt="financial-analyst-skill" />
-  </a>
-  <a href="https://github.com/phoenixlucky/zerotoken-skill">
-    <img src="https://img.shields.io/badge/zerotoken--skill-cde7ff?style=for-the-badge" alt="zerotoken-skill" />
-  </a>
-  <a href="https://github.com/phoenixlucky/business-data-analyst-skill">
-    <img src="https://img.shields.io/badge/business--data--analyst--skill-d9f0c7?style=for-the-badge" alt="business-data-analyst-skill" />
-  </a>
-  <a href="https://github.com/phoenixlucky/moon-lovers-skill">
-    <img src="https://img.shields.io/badge/moon--lovers--skill-f4d2e7?style=for-the-badge" alt="moon-lovers-skill" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h4><a href="https://github.com/phoenixlucky/weiliaozi-skill">weiliaozi-skill</a></h4>
+      <p>尉缭子分析法 — 战略决策与博弈推演 Agent Skill</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-fadadd?style=flat-square&logo=javascript&logoColor=2b2b2b" alt="JS" />
+        <img src="https://img.shields.io/badge/Node.js-8fce7c?style=flat-square&logo=nodedotjs&logoColor=2b2b2b" alt="Node.js" />
+      </p>
+    </td>
+    <td valign="top" width="33%">
+      <h4><a href="https://github.com/phoenixlucky/financial-analyst-skill">financial-analyst-skill</a></h4>
+      <p>金融分析 Agent Skill — 市场研判与投资决策辅助</p>
+      <p>
+        <img src="https://img.shields.io/badge/Skill-ffe6a7?style=flat-square" alt="Skill" />
+      </p>
+    </td>
+    <td valign="top" width="33%">
+      <h4><a href="https://github.com/phoenixlucky/zerotoken-skill">zerotoken-skill</a></h4>
+      <p>ZeroToken 相关 Agent Skill</p>
+      <p>
+        <img src="https://img.shields.io/badge/Skill-cde7ff?style=flat-square" alt="Skill" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="33%">
+      <h4><a href="https://github.com/phoenixlucky/business-data-analyst-skill">business-data-analyst-skill</a></h4>
+      <p>商业数据分析 Agent Skill — 数据驱动决策支持</p>
+      <p>
+        <img src="https://img.shields.io/badge/Skill-d9f0c7?style=flat-square" alt="Skill" />
+      </p>
+    </td>
+    <td valign="top" width="33%">
+      <h4><a href="https://github.com/phoenixlucky/moon-lovers-skill">moon-lovers-skill</a></h4>
+      <p>月恋主题 Agent Skill</p>
+      <p>
+        <img src="https://img.shields.io/badge/Skill-f4d2e7?style=flat-square" alt="Skill" />
+      </p>
+    </td>
+    <td valign="top" width="33%">
+    </td>
+  </tr>
+</table>
 
 ### 🖥️ Applications
 <table>
@@ -220,18 +247,33 @@ I build tools that reduce repetitive work and turn messy processes into reusable
 </table>
 
 ### 📦 Library
-<p>
-  <a href="https://github.com/phoenixlucky/wei-data-shu">
-    <img src="https://img.shields.io/badge/wei--data--shu-Python%20toolkit-f6c8d7?style=for-the-badge&logo=python&logoColor=2b2b2b" alt="wei-data-shu" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td valign="top" width="100%">
+      <h4><a href="https://github.com/phoenixlucky/wei-data-shu">wei-data-shu</a></h4>
+      <p>面向办公自动化和数据处理的 Python 工具库，覆盖数据库、Excel、文件处理、文本分析、邮件发送、AI 对话等场景</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-f6c8d7?style=flat-square&logo=python&logoColor=2b2b2b" alt="Python" />
+        <img src="https://img.shields.io/badge/pip-ffd7b5?style=flat-square&logo=pypi&logoColor=2b2b2b" alt="pip" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ### ⚙️ Scripts
-<p>
-  <a href="https://github.com/phoenixlucky/AutoHotkey">
-    <img src="https://img.shields.io/badge/AutoHotkey-Personal%20automation-d9f0c7?style=for-the-badge&logo=autohotkey&logoColor=2b2b2b" alt="AutoHotkey" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td valign="top" width="100%">
+      <h4><a href="https://github.com/phoenixlucky/AutoHotkey">AutoHotkey</a></h4>
+      <p>基于 AHK2 的 Windows 自动化框架，集成任务栏监控与图像文字识别</p>
+      <p>
+        <img src="https://img.shields.io/badge/AutoHotkey-d9f0c7?style=flat-square&logo=autohotkey&logoColor=2b2b2b" alt="AutoHotkey" />
+        <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
+        <img src="https://img.shields.io/badge/Python-d7f3df?style=flat-square&logo=python&logoColor=2b2b2b" alt="Python" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=2,3,6,11&text=&fontSize=0" />
 
