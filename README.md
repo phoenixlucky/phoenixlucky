@@ -202,10 +202,20 @@ I build tools that reduce repetitive work and turn messy processes into reusable
   </tr>
 </table>
 
-### 🖥️ Applications
+### 🌐 Web & Knowledge
 <table>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="33%">
+      <h4><a href="https://phoenixlucky.github.io/tao-of-strategy/">韬略之道 · Tao of Strategy</a></h4>
+      <p>古代兵法格言聚合站 — 柔刚、先后、虚实、奇正、全破、有为无为六大主题，每日一面随机呈现。<br />
+      <em>Tao of Strategy — The one coin with two sides: Wuwei & War</em></p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-ffd7b5?style=flat-square&logo=html5&logoColor=2b2b2b" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-cfe3ff?style=flat-square&logo=css3&logoColor=2b2b2b" alt="CSS3" />
+        <img src="https://img.shields.io/badge/JavaScript-fadadd?style=flat-square&logo=javascript&logoColor=2b2b2b" alt="JavaScript" />
+      </p>
+    </td>
+    <td valign="top" width="33%">
       <h4><a href="https://github.com/phoenixlucky/TrendForecasting">TrendForecasting</a></h4>
       <p>多模型时序预测工具，连接 Excel/SQLite/MySQL 数据 → 趋势预测 → 图表展示</p>
       <p>
@@ -215,7 +225,7 @@ I build tools that reduce repetitive work and turn messy processes into reusable
         <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=2b2b2b" alt="React" />
       </p>
     </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="33%">
       <h4><a href="https://github.com/phoenixlucky/WeiScheduler">WeiScheduler</a></h4>
       <p>基于 Cron 表达式的本地 Python 脚本调度器，支持 Conda 环境与后台运行</p>
       <p>
@@ -226,7 +236,7 @@ I build tools that reduce repetitive work and turn messy processes into reusable
     </td>
   </tr>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="33%">
       <h4><a href="https://github.com/phoenixlucky/WeiPython">WeiPython</a></h4>
       <p>Python/Conda/venv 环境管理桌面工具，统一管理包与环境操作</p>
       <p>
@@ -235,13 +245,15 @@ I build tools that reduce repetitive work and turn messy processes into reusable
         <img src="https://img.shields.io/badge/Electron-c7ecff?style=flat-square&logo=electron&logoColor=2b2b2b" alt="Electron" />
       </p>
     </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="33%">
       <h4><a href="https://github.com/phoenixlucky/clean_safe_plus">clean_safe_plus</a></h4>
       <p>Windows C 盘安全清理工具，图形界面 + 命令行双模式</p>
       <p>
         <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
         <img src="https://img.shields.io/badge/Batchfile-4d4d4d?style=flat-square" alt="Batchfile" />
       </p>
+    </td>
+    <td valign="top" width="33%">
     </td>
   </tr>
 </table>
