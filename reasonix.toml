@@ -1,0 +1,2 @@
+[permissions]
+allow = ["Bash(Get-Process | Where-Object { $_.ProcessName -like \"*node*\" -or $_.ProcessName -like \"*mcp*\" } | Format-Table Id, ProcessName, StartTime -AutoSize)"]
