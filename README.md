@@ -162,44 +162,62 @@ I build tools that reduce repetitive work and turn messy processes into reusable
 <table>
   <tr>
     <td valign="top" width="33%">
-      <h4><a href="https://github.com/phoenixlucky/weiliaozi-skill">weiliaozi-skill</a></h4>
-      <p>尉缭子分析法 — 战略决策与博弈推演 Agent Skill</p>
+      <h4><a href="https://github.com/phoenixlucky/zerotoken-skill">zerotoken-skill</a></h4>
+      <p>不止省 token：压缩无效上下文、推理与输出，以尉缭子十原则约束权限边界与执行纪律，附带 Unicode 编码规范、搜索规范与六种任务模式。<br />
+      <em>More than token savings — efficiency + AI coding discipline for Reasonix / Codex / OpenCode / Hermes.</em></p>
       <p>
+        <img src="https://img.shields.io/github/stars/phoenixlucky/zerotoken-skill?style=flat-square&label=Stars&color=f48fb1" alt="stars" />
+        <img src="https://img.shields.io/badge/Skill-cde7ff?style=flat-square" alt="Skill" />
+      </p>
+    </td>
+    <td valign="top" width="33%">
+      <h4><a href="https://github.com/phoenixlucky/mcp-chrome-2026">mcp-chrome-2026</a></h4>
+      <p>基于 Chrome 扩展的 MCP Server，把浏览器能力开放给 Claude 等 AI 助手：复杂浏览器自动化、内容分析与语义搜索。<br />
+      <em>Chrome extension-based MCP server — browser automation, content analysis & semantic search.</em></p>
+      <p>
+        <img src="https://img.shields.io/github/stars/phoenixlucky/mcp-chrome-2026?style=flat-square&label=Stars&color=f48fb1" alt="stars" />
+        <img src="https://img.shields.io/badge/MCP_Server-ffe2bc?style=flat-square" alt="MCP Server" />
+        <img src="https://img.shields.io/badge/Chrome_Extension-cde7ff?style=flat-square&logo=googlechrome&logoColor=2b2b2b" alt="Chrome" />
+      </p>
+    </td>
+    <td valign="top" width="33%">
+      <h4><a href="https://github.com/phoenixlucky/moon-lovers-skill">moon-lovers-skill</a></h4>
+      <p>白月光 · Moon Lovers — 温柔克制的恋爱回复 Skill，内置西施、王昭君、貂蝉、杨玉环四大美人角色卡，输出自然、留白、不油腻。<br />
+      <em>Gentle, restrained romantic chat replies with character profiles for Xishi, Wang Zhaojun, Diaochan & Yang Yuhuan.</em></p>
+      <p>
+        <img src="https://img.shields.io/github/stars/phoenixlucky/moon-lovers-skill?style=flat-square&label=Stars&color=f48fb1" alt="stars" />
+        <img src="https://img.shields.io/badge/Skill-f4d2e7?style=flat-square" alt="Skill" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="33%">
+      <h4><a href="https://github.com/phoenixlucky/weiliaozi-skill">weiliaozi-skill</a></h4>
+      <p>尉缭子分析法 — 融汇黄帝、太公望、孙武、吴起、齐桓公五位先贤思想，以本质、条件、得失、先后、对手五栏框架做战略决策与博弈推演。<br />
+      <em>Structured five-column analysis for strategy & decision games.</em></p>
+      <p>
+        <img src="https://img.shields.io/github/stars/phoenixlucky/weiliaozi-skill?style=flat-square&label=Stars&color=f48fb1" alt="stars" />
         <img src="https://img.shields.io/badge/JavaScript-fadadd?style=flat-square&logo=javascript&logoColor=2b2b2b" alt="JS" />
         <img src="https://img.shields.io/badge/Node.js-8fce7c?style=flat-square&logo=nodedotjs&logoColor=2b2b2b" alt="Node.js" />
       </p>
     </td>
     <td valign="top" width="33%">
       <h4><a href="https://github.com/phoenixlucky/financial-analyst-skill">financial-analyst-skill</a></h4>
-      <p>金融分析 Agent Skill — 市场研判与投资决策辅助</p>
+      <p>金融分析 — 周期定位 → 本质与驱动 → 条件与约束 → 仓位与风险控制；覆盖市场研判、行业/公司分析、交易策略评估、持仓复盘与杠杆管理。<br />
+      <em>Market direction, cycle positioning & risk-controlled investing.</em></p>
       <p>
+        <img src="https://img.shields.io/github/stars/phoenixlucky/financial-analyst-skill?style=flat-square&label=Stars&color=f48fb1" alt="stars" />
         <img src="https://img.shields.io/badge/Skill-ffe6a7?style=flat-square" alt="Skill" />
       </p>
     </td>
     <td valign="top" width="33%">
-      <h4><a href="https://github.com/phoenixlucky/zerotoken-skill">zerotoken-skill</a></h4>
-      <p>ZeroToken 相关 Agent Skill</p>
-      <p>
-        <img src="https://img.shields.io/badge/Skill-cde7ff?style=flat-square" alt="Skill" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="33%">
       <h4><a href="https://github.com/phoenixlucky/business-data-analyst-skill">business-data-analyst-skill</a></h4>
-      <p>商业数据分析 Agent Skill — 数据驱动决策支持</p>
+      <p>商业数据分析 — 数据驱动决策支持，覆盖指标体系梳理、业务诊断与汇报呈现，把数据转化为可执行的建议。<br />
+      <em>Data-driven decision support for business analysis.</em></p>
       <p>
+        <img src="https://img.shields.io/github/stars/phoenixlucky/business-data-analyst-skill?style=flat-square&label=Stars&color=f48fb1" alt="stars" />
         <img src="https://img.shields.io/badge/Skill-d9f0c7?style=flat-square" alt="Skill" />
       </p>
-    </td>
-    <td valign="top" width="33%">
-      <h4><a href="https://github.com/phoenixlucky/moon-lovers-skill">moon-lovers-skill</a></h4>
-      <p>月恋主题 Agent Skill</p>
-      <p>
-        <img src="https://img.shields.io/badge/Skill-f4d2e7?style=flat-square" alt="Skill" />
-      </p>
-    </td>
-    <td valign="top" width="33%">
     </td>
   </tr>
 </table>
@@ -269,21 +287,6 @@ I build tools that reduce repetitive work and turn messy processes into reusable
       <p>
         <img src="https://img.shields.io/badge/Python-f6c8d7?style=flat-square&logo=python&logoColor=2b2b2b" alt="Python" />
         <img src="https://img.shields.io/badge/pip-ffd7b5?style=flat-square&logo=pypi&logoColor=2b2b2b" alt="pip" />
-      </p>
-    </td>
-  </tr>
-</table>
-
-### ⚙️ Scripts
-<table>
-  <tr>
-    <td valign="top" width="100%">
-      <h4><a href="https://github.com/phoenixlucky/AutoHotkey">AutoHotkey</a></h4>
-      <p>基于 AHK2 的 Windows 自动化框架，集成任务栏监控与图像文字识别</p>
-      <p>
-        <img src="https://img.shields.io/badge/AutoHotkey-d9f0c7?style=flat-square&logo=autohotkey&logoColor=2b2b2b" alt="AutoHotkey" />
-        <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
-        <img src="https://img.shields.io/badge/Python-d7f3df?style=flat-square&logo=python&logoColor=2b2b2b" alt="Python" />
       </p>
     </td>
   </tr>
