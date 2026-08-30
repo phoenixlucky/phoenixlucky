@@ -129,7 +129,9 @@ I build tools that reduce repetitive work and turn messy processes into reusable
 ### App & Web
 <p>
   <img src="https://img.shields.io/badge/Next.js-fadadd?style=for-the-badge&logo=nextdotjs&logoColor=2b2b2b" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Vue-c9e7d1?style=for-the-badge&logo=vuedotjs&logoColor=2b2b2b" alt="Vue" />
   <img src="https://img.shields.io/badge/Electron-c7ecff?style=for-the-badge&logo=electron&logoColor=2b2b2b" alt="Electron" />
+  <img src="https://img.shields.io/badge/Tauri_2-dfcef0?style=for-the-badge&logo=tauri&logoColor=2b2b2b" alt="Tauri 2" />
   <img src="https://img.shields.io/badge/Streamlit-dcf2d3?style=for-the-badge&logo=streamlit&logoColor=2b2b2b" alt="Streamlit" />
   <img src="https://img.shields.io/badge/HTML5-ffd7b5?style=for-the-badge&logo=html5&logoColor=2b2b2b" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-cfe3ff?style=for-the-badge&logo=css3&logoColor=2b2b2b" alt="CSS3" />
