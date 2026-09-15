@@ -1,0 +1,19 @@
+{
+  "brand": "PHOENIXLUCKY",
+  "tagline": "From chaos to clarity, rising with code",
+  "tagline_zh": "在混沌中构建，以代码涅槃",
+  "hero_kicker": "BUILD  ·  AUTOMATE  ·  LEARN  ·  CREATE",
+  "roles": ["Builder", "Automator", "Problem Solver", "Lifelong Learner"],
+  "about_title": "About",
+  "about_subtitle": "A calmer mind. A more productive world.",
+  "about_en": "Calm builder for data workflows, office automation, and practical software.",
+  "about_zh": "专注数据流程、办公自动化与实用软件构建的开发者",
+  "metrics": [
+    ["PROFILE", "BUILDING IN PUBLIC"],
+    ["FOCUS", "PRACTICAL BUILDS"],
+    ["PHOENIX MINDSET", "TURN CHAOS INTO CLARITY"],
+    ["RISE FROM CHAOS", "A BRIGHTER TOMORROW"],
+    ["LEARNING", "ONE TOOL AT A TIME"]
+  ],
+  "navigation": ["About", "Focus", "Tech Stack", "Projects", "Insights", "Learning", "Contact"]
+}

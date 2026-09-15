@@ -1,10 +1,19 @@
 <div align="center">
 
-<img src="./assets/readme-hero.webp" width="100%" alt="Phoenixlucky profile showcase with a pastel phoenix, cards and navigation" />
+<a href="#-about"><img src="./assets/readme/hero.webp" width="100%" alt="Phoenixlucky hero with pastel sky, phoenix and navigation" /></a>
+<a href="#-about"><img src="./assets/readme/identity-card.webp" width="100%" alt="Phoenixlucky identity card with Usachi mascot and profile statement" /></a>
+<a href="#-focus"><img src="./assets/readme/metrics.webp" width="100%" alt="Phoenixlucky focus metrics" /></a>
+<img src="./assets/readme/navigation.webp" width="100%" alt="README section navigation visual" />
+<a href="#-about"><img src="./assets/readme/about-banner.webp" width="100%" alt="About Phoenixlucky with a mountain banner" /></a>
 
 <p>
-  <strong>Visual direction: Phoenix · Clarity · Practical builds</strong><br />
-  <sub>上图是视觉展示稿；下方保留可点击、可维护的真实 README 内容。</sub>
+  <a href="#-about">🔥 About</a> ·
+  <a href="#-focus">✨ Focus</a> ·
+  <a href="#-tech-stack">🧰 Tech Stack</a> ·
+  <a href="#-featured-projects">💡 Projects</a> ·
+  <a href="#-github-insights">📈 Insights</a> ·
+  <a href="#-learning-now">🌱 Learning</a> ·
+  <a href="#-contact">📫 Contact</a>
 </p>
 
 </div>
@@ -39,7 +48,7 @@
 <table width="100%">
   <tr>
     <td width="27%" align="center" valign="middle">
-      <img src="./assets/usachi.webp" width="190" alt="Usachi mascot" />
+      <img src="./assets/readme/usachi.webp" width="190" alt="Usachi mascot" />
     </td>
     <td valign="middle">
       <h3>Calm builder for useful software</h3>

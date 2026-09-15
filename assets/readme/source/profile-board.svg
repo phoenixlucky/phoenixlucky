@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1448 1086" data-width="1448" data-radius="26" data-gutter="38" data-primary="#7B61FF" data-pink="#F447B5" data-cyan="#27C5E8" data-ink="#162B55">
+  <metadata>
+    Phoenixlucky profile-board source tokens. This file is read by scripts/build_readme_assets.py;
+    it is a source document and is not referenced by README.md.
+  </metadata>
+  <rect width="1448" height="1086" fill="#F8F8FF" />
+  <g id="hero" />
+  <g id="identity-card" />
+  <g id="metrics" />
+  <g id="navigation" />
+  <g id="about" />
+</svg>
