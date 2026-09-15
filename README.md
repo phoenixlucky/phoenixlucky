@@ -1,10 +1,6 @@
 <div align="center">
 
-<a href="#-about"><img src="./assets/readme/hero.webp" width="100%" alt="Phoenixlucky hero with pastel sky, phoenix and navigation" /></a>
-<a href="#-about"><img src="./assets/readme/identity-card.webp" width="100%" alt="Phoenixlucky identity card with Usachi mascot and profile statement" /></a>
-<a href="#-focus"><img src="./assets/readme/metrics.webp" width="100%" alt="Phoenixlucky focus metrics" /></a>
-<img src="./assets/readme/navigation.webp" width="100%" alt="README section navigation visual" />
-<a href="#-about"><img src="./assets/readme/about-banner.webp" width="100%" alt="About Phoenixlucky with a mountain banner" /></a>
+<img src="./assets/readme/profile-board.webp" width="100%" alt="Phoenixlucky profile board with pastel phoenix, identity card, metrics and navigation" />
 
 <p>
   <a href="#-about">🔥 About</a> ·
@@ -17,31 +13,6 @@
 </p>
 
 </div>
-
-<hr />
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="25%">
-      <strong>🔥 BUILDER</strong><br />
-      <sub>把想法做成工具</sub>
-    </td>
-    <td align="center" width="25%">
-      <strong>⚙️ AUTOMATOR</strong><br />
-      <sub>让重复工作消失</sub>
-    </td>
-    <td align="center" width="25%">
-      <strong>🧭 PROBLEM SOLVER</strong><br />
-      <sub>把复杂变成清晰</sub>
-    </td>
-    <td align="center" width="25%">
-      <strong>🌱 LIFELONG LEARNER</strong><br />
-      <sub>持续构建与迭代</sub>
-    </td>
-  </tr>
-</table>
-
-<hr />
 
 ## 🔥 About
 

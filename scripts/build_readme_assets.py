@@ -89,9 +89,24 @@ def background(size: tuple[int, int], source: Image.Image) -> Image.Image:
     return resized.crop((0, top, width, top + height)).convert("RGBA")
 
 
-def build_hero(tokens: dict[str, str | int], copy: dict, bg: Image.Image) -> Image.Image:
+def board_background(size: tuple[int, int], source: Image.Image) -> Image.Image:
+    width, height = size
+    canvas = Image.new("RGBA", size, "#F8F8FF")
+    scenic_height = min(height, 760)
+    scenic = source.resize((width, scenic_height), Image.Resampling.LANCZOS).convert("RGBA")
+    canvas.alpha_composite(scenic)
+    fade = Image.new("RGBA", size, (255, 255, 255, 0))
+    draw = ImageDraw.Draw(fade)
+    for y in range(440, height):
+        progress = min(1.0, (y - 440) / max(1, height - 440))
+        draw.line((0, y, width, y), fill=(248, 248, 255, round(225 * progress)))
+    canvas.alpha_composite(fade)
+    return canvas
+
+
+def build_hero(tokens: dict[str, str | int], copy: dict, bg: Image.Image, base: Image.Image | None = None) -> Image.Image:
     width = int(tokens["width"])
-    canvas = background((width, 360), bg)
+    canvas = base.copy() if base is not None else background((width, 360), bg)
     layer = Image.new("RGBA", canvas.size, (255, 255, 255, 0))
     draw = ImageDraw.Draw(layer)
     gutter = int(tokens["gutter"])
@@ -113,9 +128,9 @@ def build_hero(tokens: dict[str, str | int], copy: dict, bg: Image.Image) -> Ima
     return canvas
 
 
-def build_identity(tokens: dict[str, str | int], copy: dict, bg: Image.Image, usachi: Image.Image) -> Image.Image:
+def build_identity(tokens: dict[str, str | int], copy: dict, bg: Image.Image, usachi: Image.Image, base: Image.Image | None = None) -> Image.Image:
     width = int(tokens["width"])
-    canvas = background((width, 300), bg)
+    canvas = base.copy() if base is not None else background((width, 300), bg)
     layer = Image.new("RGBA", canvas.size, (255, 255, 255, 0))
     draw = ImageDraw.Draw(layer)
     card(layer, (196, 15, 1056, 270), 28, 224)
@@ -136,9 +151,9 @@ def build_identity(tokens: dict[str, str | int], copy: dict, bg: Image.Image, us
     return canvas
 
 
-def build_metrics(tokens: dict[str, str | int], copy: dict) -> Image.Image:
+def build_metrics(tokens: dict[str, str | int], copy: dict, bg: Image.Image, base: Image.Image | None = None) -> Image.Image:
     width = int(tokens["width"])
-    canvas = Image.new("RGBA", (width, 126), "#F8F8FF")
+    canvas = base.copy() if base is not None else background((width, 126), bg)
     draw = ImageDraw.Draw(canvas)
     labels = copy["metrics"]
     colors = ["#F447B5", "#7B61FF", "#10A998", "#F5772D", "#2B72D6"]
@@ -155,9 +170,9 @@ def build_metrics(tokens: dict[str, str | int], copy: dict) -> Image.Image:
     return canvas
 
 
-def build_navigation(tokens: dict[str, str | int], copy: dict) -> Image.Image:
+def build_navigation(tokens: dict[str, str | int], copy: dict, base: Image.Image | None = None) -> Image.Image:
     width = int(tokens["width"])
-    canvas = Image.new("RGBA", (width, 112), "#F8F8FF")
+    canvas = base.copy() if base is not None else Image.new("RGBA", (width, 112), "#F8F8FF")
     draw = ImageDraw.Draw(canvas)
     gutter = int(tokens["gutter"])
     card(canvas, (gutter, 12, width - 2 * gutter, 82), 20, 236)
@@ -174,9 +189,9 @@ def build_navigation(tokens: dict[str, str | int], copy: dict) -> Image.Image:
     return canvas
 
 
-def build_about(tokens: dict[str, str | int], copy: dict, bg: Image.Image) -> Image.Image:
+def build_about(tokens: dict[str, str | int], copy: dict, bg: Image.Image, base: Image.Image | None = None) -> Image.Image:
     width = int(tokens["width"])
-    canvas = Image.new("RGBA", (width, 310), "#F8F8FF")
+    canvas = base.copy() if base is not None else Image.new("RGBA", (width, 310), "#F8F8FF")
     layer = Image.new("RGBA", canvas.size, (255, 255, 255, 0))
     draw = ImageDraw.Draw(layer)
     gutter = int(tokens["gutter"])
@@ -207,6 +222,17 @@ def save_webp(image: Image.Image, name: str, quality: int = 90) -> None:
     print(f"{target.name}: {image.width}x{image.height}, {size} bytes")
 
 
+def build_profile_board(parts: list[Image.Image]) -> Image.Image:
+    width = parts[0].width
+    height = sum(part.height for part in parts)
+    board = Image.new("RGBA", (width, height), "#F8F8FF")
+    y = 0
+    for part in parts:
+        board.alpha_composite(part, (0, y))
+        y += part.height
+    return board
+
+
 def main() -> None:
     tokens = load_tokens()
     copy = json.loads((SOURCE / "copy.json").read_text(encoding="utf-8"))
@@ -214,12 +240,19 @@ def main() -> None:
     usachi = Image.open(SOURCE / "usachi.webp").convert("RGBA")
     OUTPUT.mkdir(parents=True, exist_ok=True)
 
-    hero = build_hero(tokens, copy, bg)
-    identity = build_identity(tokens, copy, bg, usachi)
-    metrics = build_metrics(tokens, copy)
-    navigation = build_navigation(tokens, copy)
+    section_heights = (360, 300, 126, 112)
+    board_base = board_background((int(tokens["width"]), sum(section_heights)), bg)
+    offsets = [0]
+    for height in section_heights[:-1]:
+        offsets.append(offsets[-1] + height)
+    hero = build_hero(tokens, copy, bg, board_base.crop((0, offsets[0], int(tokens["width"]), offsets[0] + section_heights[0])))
+    identity = build_identity(tokens, copy, bg, usachi, board_base.crop((0, offsets[1], int(tokens["width"]), offsets[1] + section_heights[1])))
+    metrics = build_metrics(tokens, copy, bg, board_base.crop((0, offsets[2], int(tokens["width"]), offsets[2] + section_heights[2])))
+    navigation = build_navigation(tokens, copy, board_base.crop((0, offsets[3], int(tokens["width"]), offsets[3] + section_heights[3])))
     about = build_about(tokens, copy, bg)
+    board = build_profile_board([hero, identity, metrics, navigation])
 
+    save_webp(board, "profile-board.webp", quality=88)
     save_webp(hero, "hero.webp")
     save_webp(identity, "identity-card.webp")
     save_webp(metrics, "metrics.webp")
