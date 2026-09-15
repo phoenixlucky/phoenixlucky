@@ -1,338 +1,229 @@
 <div align="center">
 
-<!-- Top Wave Banner — Phoenix Flame Gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=2,3,6,11&text=%F0%9F%94%A5%20PHOENIXLUCKY&fontColor=ffffff&fontAlignY=32&fontSize=50&animation=fadeIn&desc=From%20chaos%20to%20clarity%2C%20rising%20with%20code%20%C2%B7%20%E5%9C%A8%E6%B7%B7%E6%B2%8C%E4%B8%AD%E6%9E%84%E5%BB%BA%2C%20%E4%BB%A5%E4%BB%A3%E7%A0%81%E6%B6%85%E6%A7%83&descAlignY=56&descSize=17&descFontWeight=300" />
+<img src="./assets/readme-hero.webp" width="100%" alt="Dreamy phoenix rising above misty mountains" />
 
 <br />
 
-<!-- Dual Mascots: Usachi + Phoenix -->
-<img src="./Usachi.png" width="130" alt="Usachi mascot" />
-&nbsp;&nbsp;&nbsp;
-<img src="./phoenix.svg" width="130" alt="Phoenix emblem" />
+<img src="./assets/usachi.webp" width="118" alt="Usachi astronaut mascot" />
 
-<h1>🐦‍🔥 phoenixlucky</h1>
+<h1>🔥 PHOENIXLUCKY</h1>
 
-<h3>
-  Calm builder for data workflows, office automation, and practical software<br />
-  专注数据流程、办公自动化与实用软件构建的开发者
-</h3>
-
-<!-- Profile Badges -->
 <p>
-  <a href="https://github.com/phoenixlucky">
-    <img src="https://komarev.com/ghpvc/?username=phoenixlucky&label=Profile%20Views&color=f48fb1&style=for-the-badge" alt="profile views" />
-  </a>
-  <a href="https://github.com/phoenixlucky?tab=followers">
-    <img src="https://img.shields.io/github/followers/phoenixlucky?label=Followers&style=for-the-badge&color=ff9eb5" alt="followers" />
-  </a>
-  <a href="https://github.com/phoenixlucky?tab=repositories">
-    <img src="https://img.shields.io/badge/Focus-Practical%20Builds-f7b2d0?style=for-the-badge" alt="focus practical builds" />
-  </a>
-  <a href="#-about">
-    <img src="https://img.shields.io/badge/%F0%9F%94%A5%20Phoenix%20Mindset-Rise%20From%20Chaos-ff9a56?style=for-the-badge" alt="phoenix mindset" />
-  </a>
+  <strong>From chaos to clarity, rising with code</strong><br />
+  在混沌中构建，以代码涅槃
 </p>
 
-<!-- Navigation -->
 <p>
-  <a href="#-about">🔥 About</a> •
-  <a href="#-focus">✨ Focus</a> •
-  <a href="#-tech-stack">🧰 Tech Stack</a> •
-  <a href="#-featured-projects">💡 Projects</a> •
-  <a href="#-github-insights">📈 Insights</a> •
-  <a href="#-learning-now">🌱 Learning</a> •
+  <a href="https://github.com/phoenixlucky"><img src="https://img.shields.io/badge/BUILD-FF4FB3?style=for-the-badge&logo=github&logoColor=white" alt="Build" /></a>
+  <a href="https://github.com/phoenixlucky?tab=repositories"><img src="https://img.shields.io/badge/AUTOMATE-7B61FF?style=for-the-badge&logo=workflow&logoColor=white" alt="Automate" /></a>
+  <a href="https://phoenixlucky.github.io/"><img src="https://img.shields.io/badge/LEARN-21C7D9?style=for-the-badge&logo=bookstack&logoColor=white" alt="Learn" /></a>
+  <a href="mailto:englishyj@gmail.com"><img src="https://img.shields.io/badge/CREATE-FF9852?style=for-the-badge&logo=rocket&logoColor=white" alt="Create" /></a>
+</p>
+
+<p>
+  <a href="#-about">🔥 About</a> ·
+  <a href="#-focus">✨ Focus</a> ·
+  <a href="#-tech-stack">🧰 Tech Stack</a> ·
+  <a href="#-featured-projects">💡 Projects</a> ·
+  <a href="#-github-insights">📈 Insights</a> ·
+  <a href="#-learning-now">🌱 Learning</a> ·
   <a href="#-contact">📫 Contact</a>
 </p>
 
 </div>
 
-<!-- Section Divider — Fire to Rose -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=2,3,6,11&text=&fontSize=0" />
+<hr />
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="25%">
+      <strong>🔥 BUILDER</strong><br />
+      <sub>把想法做成工具</sub>
+    </td>
+    <td align="center" width="25%">
+      <strong>⚙️ AUTOMATOR</strong><br />
+      <sub>让重复工作消失</sub>
+    </td>
+    <td align="center" width="25%">
+      <strong>🧭 PROBLEM SOLVER</strong><br />
+      <sub>把复杂变成清晰</sub>
+    </td>
+    <td align="center" width="25%">
+      <strong>🌱 LIFELONG LEARNER</strong><br />
+      <sub>持续构建与迭代</sub>
+    </td>
+  </tr>
+</table>
+
+<hr />
 
 ## 🔥 About
 
-> Rise from complexity. Build with clarity.
->
-> 于混沌中涅槃，以清晰构建。
+<table width="100%">
+  <tr>
+    <td width="27%" align="center" valign="middle">
+      <img src="./assets/usachi.webp" width="190" alt="Usachi mascot" />
+    </td>
+    <td valign="middle">
+      <h3>Calm builder for useful software</h3>
+      <p>我专注于数据流程、办公自动化与实用软件构建，把混乱的工作整理成可复用、可维护的系统。</p>
+      <p>I build tools that reduce repetitive work and turn messy processes into reusable systems.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Data_Workflows-E9D5FF?style=flat-square&logo=databricks&logoColor=5B21B6" alt="Data workflows" />
+        <img src="https://img.shields.io/badge/Office_Automation-D9F99D?style=flat-square&logo=microsoftoffice&logoColor=365314" alt="Office automation" />
+        <img src="https://img.shields.io/badge/Practical_Software-BAE6FD?style=flat-square&logo=codeforces&logoColor=0C4A6E" alt="Practical software" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-I build tools that reduce repetitive work and turn messy processes into reusable systems. My work usually sits between data handling, automation, desktop utilities, and lightweight full-stack delivery.
-
-我更关注"把复杂工作整理成可复用流程"这件事。项目通常落在数据处理、办公自动化、桌面工具，以及偏轻量但实用的全栈交付上。
-
-<table>
+<table width="100%">
   <tr>
     <td valign="top" width="33%">
       <strong>📌 Role</strong><br />
-      Data analyst<br />
-      Full-stack practitioner<br />
-      Toolmaker
+      <sub>Data analyst · Full-stack practitioner · Toolmaker</sub>
     </td>
     <td valign="top" width="33%">
       <strong>🎯 Style</strong><br />
-      Calm and systematic<br />
-      Practical over flashy<br />
-      Reusable over disposable
+      <sub>Calm and systematic · Practical over flashy</sub>
     </td>
     <td valign="top" width="33%">
       <strong>💭 Interests</strong><br />
-      Python tooling<br />
-      Office automation<br />
-      Interface polish
+      <sub>Python tooling · Office automation · Interface polish</sub>
     </td>
   </tr>
 </table>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,11,20,24&text=&fontSize=0" />
 
 ## ✨ Focus
 
-<table>
+<table width="100%">
   <tr>
     <td valign="top" width="50%">
-      <strong>🤖 Automation First · 自动化优先</strong><br />
-      I like turning repetitive office and data tasks into small, dependable tools.<br />
-      我倾向于把重复的办公和数据任务沉淀成稳定、可复用的小工具。
+      <h3>🤖 Automation First</h3>
+      <p>把重复的办公和数据任务沉淀成稳定、可复用的小工具。</p>
+      <sub>Small dependable tools for repetitive work.</sub>
     </td>
     <td valign="top" width="50%">
-      <strong>🎨 Useful Interfaces · 注重使用体验</strong><br />
-      I care about software that is not only functional, but also pleasant to use.<br />
-      我希望工具不仅能完成任务，也能在交互上足够顺手、舒服。
+      <h3>🎨 Useful Interfaces</h3>
+      <p>工具不仅要完成任务，也要在交互上顺手、舒服。</p>
+      <sub>Functional software with a little design warmth.</sub>
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <strong>🏗️ Practical Engineering · 偏向长期可维护</strong><br />
-      I prefer code and structure that support long-term maintenance instead of one-off tricks.<br />
-      我更重视能长期维护的代码和结构，而不是一次性的临时方案。
+      <h3>🏗️ Practical Engineering</h3>
+      <p>优先选择能长期维护的代码与结构，而不是一次性的临时方案。</p>
+      <sub>Maintainable structure over one-off tricks.</sub>
     </td>
     <td valign="top" width="50%">
-      <strong>🌏 Bilingual Sharing · 双语表达</strong><br />
-      I enjoy documenting ideas in both English and Chinese for broader reuse.<br />
-      我会尽量用中英双语整理想法，方便沉淀和传播。
+      <h3>🌏 Bilingual Sharing</h3>
+      <p>用中英双语整理想法，让好用的经验更容易复用和传播。</p>
+      <sub>Ideas documented for broader reuse.</sub>
     </td>
   </tr>
 </table>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=2,3,6,11&text=&fontSize=0" />
 
 ## 🧰 Tech Stack
 
-### Languages
 <p>
-  <img src="https://img.shields.io/badge/Python-f6c8d7?style=for-the-badge&logo=python&logoColor=2b2b2b" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-ffe6a7?style=for-the-badge&logo=javascript&logoColor=2b2b2b" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Java-cde7ff?style=for-the-badge&logo=openjdk&logoColor=2b2b2b" alt="Java" />
-  <img src="https://img.shields.io/badge/VBA-f4d2e7?style=for-the-badge" alt="VBA" />
-  <img src="https://img.shields.io/badge/AutoHotkey-d9f0c7?style=for-the-badge&logo=autohotkey&logoColor=2b2b2b" alt="AutoHotkey" />
+  <strong>Languages</strong><br />
+  <img src="https://img.shields.io/badge/Python-F6C8D7?style=for-the-badge&logo=python&logoColor=2B2B2B" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-FFE6A7?style=for-the-badge&logo=javascript&logoColor=2B2B2B" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-CDE7FF?style=for-the-badge&logo=openjdk&logoColor=2B2B2B" alt="Java" />
+  <img src="https://img.shields.io/badge/VBA-F4D2E7?style=for-the-badge" alt="VBA" />
+  <img src="https://img.shields.io/badge/AutoHotkey-D9F0C7?style=for-the-badge&logo=autohotkey&logoColor=2B2B2B" alt="AutoHotkey" />
 </p>
 
-### App & Web
 <p>
-  <img src="https://img.shields.io/badge/Next.js-fadadd?style=for-the-badge&logo=nextdotjs&logoColor=2b2b2b" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Vue-c9e7d1?style=for-the-badge&logo=vuedotjs&logoColor=2b2b2b" alt="Vue" />
-  <img src="https://img.shields.io/badge/Electron-c7ecff?style=for-the-badge&logo=electron&logoColor=2b2b2b" alt="Electron" />
-  <img src="https://img.shields.io/badge/Tauri_2-dfcef0?style=for-the-badge&logo=tauri&logoColor=2b2b2b" alt="Tauri 2" />
-  <img src="https://img.shields.io/badge/Streamlit-dcf2d3?style=for-the-badge&logo=streamlit&logoColor=2b2b2b" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/HTML5-ffd7b5?style=for-the-badge&logo=html5&logoColor=2b2b2b" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-cfe3ff?style=for-the-badge&logo=css3&logoColor=2b2b2b" alt="CSS3" />
+  <strong>App & Web</strong><br />
+  <img src="https://img.shields.io/badge/Next.js-FADADD?style=for-the-badge&logo=nextdotjs&logoColor=2B2B2B" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Vue-C9E7D1?style=for-the-badge&logo=vuedotjs&logoColor=2B2B2B" alt="Vue" />
+  <img src="https://img.shields.io/badge/Electron-C7ECFF?style=for-the-badge&logo=electron&logoColor=2B2B2B" alt="Electron" />
+  <img src="https://img.shields.io/badge/Tauri_2-DFCEF0?style=for-the-badge&logo=tauri&logoColor=2B2B2B" alt="Tauri 2" />
+  <img src="https://img.shields.io/badge/Streamlit-DCF2D3?style=for-the-badge&logo=streamlit&logoColor=2B2B2B" alt="Streamlit" />
 </p>
 
-### Data & Automation
 <p>
-  <img src="https://img.shields.io/badge/MySQL-cfe7de?style=for-the-badge&logo=mysql&logoColor=2b2b2b" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-f9d7e5?style=for-the-badge&logo=mongodb&logoColor=2b2b2b" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Excel-d9ebc2?style=for-the-badge&logo=microsoftexcel&logoColor=2b2b2b" alt="Excel" />
-  <img src="https://img.shields.io/badge/Conda-fff0b6?style=for-the-badge&logo=anaconda&logoColor=2b2b2b" alt="Conda" />
-  <img src="https://img.shields.io/badge/Automation-f7c7dc?style=for-the-badge" alt="Automation" />
+  <strong>Data, AI & Tools</strong><br />
+  <img src="https://img.shields.io/badge/MySQL-CFE7DE?style=for-the-badge&logo=mysql&logoColor=2B2B2B" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-F9D7E5?style=for-the-badge&logo=mongodb&logoColor=2B2B2B" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Excel-D9EBC2?style=for-the-badge&logo=microsoftexcel&logoColor=2B2B2B" alt="Excel" />
+  <img src="https://img.shields.io/badge/ChatGPT-CDE7FF?style=for-the-badge&logo=openai&logoColor=2B2B2B" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/ComfyUI-FFE2BC?style=for-the-badge" alt="ComfyUI" />
+  <img src="https://img.shields.io/badge/Ollama-E8D2F7?style=for-the-badge" alt="Ollama" />
 </p>
-
-### AI & Tools
-<p>
-  <img src="https://img.shields.io/badge/ChatGPT-cde7ff?style=for-the-badge&logo=openai&logoColor=2b2b2b" alt="ChatGPT" />
-  <img src="https://img.shields.io/badge/DeepSeek-d7f3df?style=for-the-badge" alt="DeepSeek" />
-  <img src="https://img.shields.io/badge/ComfyUI-ffe2bc?style=for-the-badge" alt="ComfyUI" />
-  <img src="https://img.shields.io/badge/Ollama-e8d2f7?style=for-the-badge" alt="Ollama" />
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,11,20,24&text=&fontSize=0" />
 
 ## 💡 Featured Projects
 
-### 🤖 Agent Skills
-<table>
+<table width="100%">
   <tr>
-    <td valign="top" width="33%">
-      <h4><a href="https://github.com/phoenixlucky/zerotoken-skill">zerotoken-skill</a></h4>
-      <p>不止省 token：压缩无效上下文、推理与输出，以尉缭子十原则约束权限边界与执行纪律，附带 Unicode 编码规范、搜索规范与六种任务模式。<br />
-      <em>More than token savings — efficiency + AI coding discipline for Reasonix / Codex / OpenCode / Hermes.</em></p>
-      <p>
-        <img src="https://img.shields.io/github/stars/phoenixlucky/zerotoken-skill?style=flat-square&label=Stars&color=f48fb1" alt="stars" />
-        <img src="https://img.shields.io/badge/Skill-cde7ff?style=flat-square" alt="Skill" />
-      </p>
+    <td valign="top" width="50%">
+      <h3><a href="https://github.com/phoenixlucky/zerotoken-skill">zerotoken-skill</a></h3>
+      <p>Token-efficient AI coding discipline for Reasonix / Codex / OpenCode / Hermes.</p>
+      <p><sub>压缩无效上下文、推理与输出，约束权限边界与执行纪律。</sub></p>
+      <img src="https://img.shields.io/github/stars/phoenixlucky/zerotoken-skill?style=flat-square&label=Stars&color=F48FB1" alt="stars" />
+      <img src="https://img.shields.io/badge/Skill-CDE7FF?style=flat-square" alt="skill" />
     </td>
-    <td valign="top" width="33%">
-      <h4><a href="https://github.com/phoenixlucky/mcp-chrome-2026">mcp-chrome-2026</a></h4>
-      <p>基于 Chrome 扩展的 MCP Server，把浏览器能力开放给 Claude 等 AI 助手：复杂浏览器自动化、内容分析与语义搜索。<br />
-      <em>Chrome extension-based MCP server — browser automation, content analysis & semantic search.</em></p>
-      <p>
-        <img src="https://img.shields.io/github/stars/phoenixlucky/mcp-chrome-2026?style=flat-square&label=Stars&color=f48fb1" alt="stars" />
-        <img src="https://img.shields.io/badge/MCP_Server-ffe2bc?style=flat-square" alt="MCP Server" />
-        <img src="https://img.shields.io/badge/Chrome_Extension-cde7ff?style=flat-square&logo=googlechrome&logoColor=2b2b2b" alt="Chrome" />
-      </p>
-    </td>
-    <td valign="top" width="33%">
-      <h4><a href="https://github.com/phoenixlucky/moon-lovers-skill">moon-lovers-skill</a></h4>
-      <p>白月光 · Moon Lovers — 温柔克制的恋爱回复 Skill，内置西施、王昭君、貂蝉、杨玉环四大美人角色卡，输出自然、留白、不油腻。<br />
-      <em>Gentle, restrained romantic chat replies with character profiles for Xishi, Wang Zhaojun, Diaochan & Yang Yuhuan.</em></p>
-      <p>
-        <img src="https://img.shields.io/github/stars/phoenixlucky/moon-lovers-skill?style=flat-square&label=Stars&color=f48fb1" alt="stars" />
-        <img src="https://img.shields.io/badge/Skill-f4d2e7?style=flat-square" alt="Skill" />
-      </p>
+    <td valign="top" width="50%">
+      <h3><a href="https://github.com/phoenixlucky/mcp-chrome-2026">mcp-chrome-2026</a></h3>
+      <p>Chrome extension-based MCP server for browser automation and content analysis.</p>
+      <p><sub>把浏览器能力开放给 AI 助手，支持自动化与语义搜索。</sub></p>
+      <img src="https://img.shields.io/github/stars/phoenixlucky/mcp-chrome-2026?style=flat-square&label=Stars&color=F48FB1" alt="stars" />
+      <img src="https://img.shields.io/badge/MCP_Server-FFE2BC?style=flat-square" alt="MCP server" />
     </td>
   </tr>
   <tr>
-    <td valign="top" width="33%">
-      <h4><a href="https://github.com/phoenixlucky/weiliaozi-skill">weiliaozi-skill</a></h4>
-      <p>尉缭子分析法 — 融汇黄帝、太公望、孙武、吴起、齐桓公五位先贤思想，以本质、条件、得失、先后、对手五栏框架做战略决策与博弈推演。<br />
-      <em>Structured five-column analysis for strategy & decision games.</em></p>
-      <p>
-        <img src="https://img.shields.io/github/stars/phoenixlucky/weiliaozi-skill?style=flat-square&label=Stars&color=f48fb1" alt="stars" />
-        <img src="https://img.shields.io/badge/JavaScript-fadadd?style=flat-square&logo=javascript&logoColor=2b2b2b" alt="JS" />
-        <img src="https://img.shields.io/badge/Node.js-8fce7c?style=flat-square&logo=nodedotjs&logoColor=2b2b2b" alt="Node.js" />
-      </p>
+    <td valign="top" width="50%">
+      <h3><a href="https://phoenixlucky.github.io/tao-of-strategy/">韬略之道 · Tao of Strategy</a></h3>
+      <p>A quiet collection of strategy ideas, organized around six complementary themes.</p>
+      <p><sub>古代兵法格言聚合站，每日一面随机呈现。</sub></p>
+      <img src="https://img.shields.io/badge/HTML5-FFD7B5?style=flat-square&logo=html5&logoColor=2B2B2B" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-CFE3FF?style=flat-square&logo=css3&logoColor=2B2B2B" alt="CSS3" />
     </td>
-    <td valign="top" width="33%">
-      <h4><a href="https://github.com/phoenixlucky/financial-analyst-skill">financial-analyst-skill</a></h4>
-      <p>金融分析 — 周期定位 → 本质与驱动 → 条件与约束 → 仓位与风险控制；覆盖市场研判、行业/公司分析、交易策略评估、持仓复盘与杠杆管理。<br />
-      <em>Market direction, cycle positioning & risk-controlled investing.</em></p>
-      <p>
-        <img src="https://img.shields.io/github/stars/phoenixlucky/financial-analyst-skill?style=flat-square&label=Stars&color=f48fb1" alt="stars" />
-        <img src="https://img.shields.io/badge/Skill-ffe6a7?style=flat-square" alt="Skill" />
-      </p>
-    </td>
-    <td valign="top" width="33%">
-      <h4><a href="https://github.com/phoenixlucky/business-data-analyst-skill">business-data-analyst-skill</a></h4>
-      <p>商业数据分析 — 数据驱动决策支持，覆盖指标体系梳理、业务诊断与汇报呈现，把数据转化为可执行的建议。<br />
-      <em>Data-driven decision support for business analysis.</em></p>
-      <p>
-        <img src="https://img.shields.io/github/stars/phoenixlucky/business-data-analyst-skill?style=flat-square&label=Stars&color=f48fb1" alt="stars" />
-        <img src="https://img.shields.io/badge/Skill-d9f0c7?style=flat-square" alt="Skill" />
-      </p>
+    <td valign="top" width="50%">
+      <h3><a href="https://github.com/phoenixlucky/wei-data-shu">wei-data-shu</a></h3>
+      <p>A Python toolkit for office automation, databases, Excel, files, text and AI.</p>
+      <p><sub>面向办公自动化和数据处理的 Python 工具库。</sub></p>
+      <img src="https://img.shields.io/badge/Python-F6C8D7?style=flat-square&logo=python&logoColor=2B2B2B" alt="Python" />
+      <img src="https://img.shields.io/badge/pip-FFD7B5?style=flat-square&logo=pypi&logoColor=2B2B2B" alt="pip" />
     </td>
   </tr>
 </table>
 
-### 🌐 Web & Knowledge
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      <h4><a href="https://phoenixlucky.github.io/tao-of-strategy/">韬略之道 · Tao of Strategy</a></h4>
-      <p>古代兵法格言聚合站 — 柔刚、先后、虚实、奇正、全破、有为无为六大主题，每日一面随机呈现。<br />
-      <em>Tao of Strategy — The one coin with two sides: Wuwei & War</em></p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-ffd7b5?style=flat-square&logo=html5&logoColor=2b2b2b" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-cfe3ff?style=flat-square&logo=css3&logoColor=2b2b2b" alt="CSS3" />
-        <img src="https://img.shields.io/badge/JavaScript-fadadd?style=flat-square&logo=javascript&logoColor=2b2b2b" alt="JavaScript" />
-      </p>
-    </td>
-    <td valign="top" width="33%">
-      <h4><a href="https://github.com/phoenixlucky/TrendForecasting">TrendForecasting</a></h4>
-      <p>多模型时序预测工具，连接 Excel/SQLite/MySQL 数据 → 趋势预测 → 图表展示</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-fadadd?style=flat-square&logo=javascript&logoColor=2b2b2b" alt="JS" />
-        <img src="https://img.shields.io/badge/Python-d7f3df?style=flat-square&logo=python&logoColor=2b2b2b" alt="Python" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-        <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=2b2b2b" alt="React" />
-      </p>
-    </td>
-    <td valign="top" width="33%">
-      <h4><a href="https://github.com/phoenixlucky/WeiScheduler">WeiScheduler</a></h4>
-      <p>基于 Cron 表达式的本地 Python 脚本调度器，支持 Conda 环境与后台运行</p>
-      <p>
-        <img src="https://img.shields.io/badge/Node.js-8fce7c?style=flat-square&logo=nodedotjs&logoColor=2b2b2b" alt="Node.js" />
-        <img src="https://img.shields.io/badge/Electron-c7ecff?style=flat-square&logo=electron&logoColor=2b2b2b" alt="Electron" />
-        <img src="https://img.shields.io/badge/Cron-ffe6a7?style=flat-square" alt="Cron" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="33%">
-      <h4><a href="https://github.com/phoenixlucky/WeiPython">WeiPython</a></h4>
-      <p>Python/Conda/venv 环境管理桌面工具，统一管理包与环境操作</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-fadadd?style=flat-square&logo=javascript&logoColor=2b2b2b" alt="JS" />
-        <img src="https://img.shields.io/badge/Python-d7f3df?style=flat-square&logo=python&logoColor=2b2b2b" alt="Python" />
-        <img src="https://img.shields.io/badge/Electron-c7ecff?style=flat-square&logo=electron&logoColor=2b2b2b" alt="Electron" />
-      </p>
-    </td>
-    <td valign="top" width="33%">
-      <h4><a href="https://github.com/phoenixlucky/clean_safe_plus">clean_safe_plus</a></h4>
-      <p>Windows C 盘安全清理工具，图形界面 + 命令行双模式</p>
-      <p>
-        <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
-        <img src="https://img.shields.io/badge/Batchfile-4d4d4d?style=flat-square" alt="Batchfile" />
-      </p>
-    </td>
-    <td valign="top" width="33%">
-    </td>
-  </tr>
-</table>
+<details>
+<summary>More projects</summary>
 
-### 📦 Library
-<table>
-  <tr>
-    <td valign="top" width="100%">
-      <h4><a href="https://github.com/phoenixlucky/wei-data-shu">wei-data-shu</a></h4>
-      <p>面向办公自动化和数据处理的 Python 工具库，覆盖数据库、Excel、文件处理、文本分析、邮件发送、AI 对话等场景</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-f6c8d7?style=flat-square&logo=python&logoColor=2b2b2b" alt="Python" />
-        <img src="https://img.shields.io/badge/pip-ffd7b5?style=flat-square&logo=pypi&logoColor=2b2b2b" alt="pip" />
-      </p>
-    </td>
-  </tr>
-</table>
+<p>
+  <a href="https://github.com/phoenixlucky/moon-lovers-skill">moon-lovers-skill</a> ·
+  <a href="https://github.com/phoenixlucky/weiliaozi-skill">weiliaozi-skill</a> ·
+  <a href="https://github.com/phoenixlucky/financial-analyst-skill">financial-analyst-skill</a> ·
+  <a href="https://github.com/phoenixlucky/business-data-analyst-skill">business-data-analyst-skill</a> ·
+  <a href="https://github.com/phoenixlucky/TrendForecasting">TrendForecasting</a> ·
+  <a href="https://github.com/phoenixlucky/WeiScheduler">WeiScheduler</a> ·
+  <a href="https://github.com/phoenixlucky/WeiPython">WeiPython</a> ·
+  <a href="https://github.com/phoenixlucky/clean_safe_plus">clean_safe_plus</a>
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=2,3,6,11&text=&fontSize=0" />
+</details>
 
 ## 📈 GitHub Insights
 
 <div align="center">
 
-<!-- Profile Summary Card -->
 <a href="https://github.com/phoenixlucky/phoenixlucky">
-  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phoenixlucky&theme=rose_pine" alt="profile summary" />
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phoenixlucky&theme=rose_pine" alt="GitHub profile summary" />
 </a>
 
 <br /><br />
 
-<!-- Three-Column Stats -->
 <a href="https://github.com/phoenixlucky/phoenixlucky">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=phoenixlucky&theme=rose_pine" alt="github stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=phoenixlucky&theme=rose_pine" alt="GitHub stats" />
 </a>
 <a href="https://github.com/phoenixlucky/phoenixlucky">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=phoenixlucky&theme=rose-pine&hide_border=true&border_radius=12" alt="streak stats" />
-</a>
-<a href="https://github.com/phoenixlucky/phoenixlucky">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phoenixlucky&theme=rose_pine" alt="top languages" />
-</a>
-
-<br /><br />
-
-<!-- Contribution Grid -->
-<a href="https://github.com/phoenixlucky/phoenixlucky">
-  <img width="95%" src="https://ghchart.rshah.org/f48fb1/phoenixlucky" alt="github contribution chart" />
-</a>
-
-<br /><br />
-
-<!-- Activity Graph -->
-<a href="https://github.com/phoenixlucky/phoenixlucky">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=phoenixlucky&bg_color=fff7fb&color=d16ba5&line=f48fb1&point=f06292&area=true&hide_border=true&hide_title=true" alt="activity graph" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=phoenixlucky&theme=rose-pine&hide_border=true&border_radius=12" alt="GitHub streak stats" />
 </a>
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,11,20,24&text=&fontSize=0" />
 
 ## 🌱 Learning Now
 
@@ -340,43 +231,26 @@ I build tools that reduce repetitive work and turn messy processes into reusable
 >
 > 烧尽的可以重燃，学到的成为下一块基石。
 
-I am currently refining both engineering depth and interface quality, with a strong bias toward practical output.
-
-我最近在同时推进工程能力和界面表达，希望做出既稳定又更有质感的作品。
-
-- 🎯 Front-end visualization and interaction clarity
-- 🎯 Algorithm fundamentals and implementation quality
-- 🎯 Packaging better developer and office productivity tools
+<table width="100%">
+  <tr>
+    <td valign="top" width="33%"><strong>🎯 Interaction</strong><br /><sub>Front-end visualization and interaction clarity</sub></td>
+    <td valign="top" width="33%"><strong>🧠 Fundamentals</strong><br /><sub>Algorithm fundamentals and implementation quality</sub></td>
+    <td valign="top" width="33%"><strong>📦 Delivery</strong><br /><sub>Better developer and office productivity tools</sub></td>
+  </tr>
+</table>
 
 ## 📫 Contact
 
-<p align="center">
-  <a href="mailto:englishyj@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
-  </a>
-  <a href="https://github.com/phoenixlucky">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-  </a>
-  <a href="https://phoenixlucky.github.io/">
-    <img src="https://img.shields.io/badge/Blog-1f1f1f?style=for-the-badge&logo=githubpages&logoColor=white" alt="blog" />
-  </a>
-  <a href="https://www.zhihu.com/people/wei-jia-6">
-    <img src="https://img.shields.io/badge/Zhihu-0084FF?style=for-the-badge&logo=zhihu&logoColor=white" alt="zhihu" />
-  </a>
-</p>
-
----
-
 <div align="center">
-  <sub>
-    🔥 Rise from chaos, build with clarity, ship with warmth.<br />
-    于混沌中涅槃，以清晰构建，用温度交付。
-  </sub>
-  <br /><br />
-  <sub>Thanks for visiting this page. Practical ideas, careful execution, and a little bit of design warmth.</sub>
-  <br />
-  <sub>感谢访问。实用的想法、仔细的执行、以及一点设计的温度。</sub>
-</div>
 
-<!-- Bottom Wave Footer — Phoenix Flame -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=2,3,6,11&text=&fontSize=0&section=footer" />
+<a href="mailto:englishyj@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://github.com/phoenixlucky"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://phoenixlucky.github.io/"><img src="https://img.shields.io/badge/Blog-1F1F1F?style=for-the-badge&logo=githubpages&logoColor=white" alt="Blog" /></a>
+<a href="https://www.zhihu.com/people/wei-jia-6"><img src="https://img.shields.io/badge/Zhihu-0084FF?style=for-the-badge&logo=zhihu&logoColor=white" alt="Zhihu" /></a>
+
+<br /><br />
+
+<sub>🔥 Rise from chaos, build with clarity, ship with warmth.</sub><br />
+<sub>于混沌中涅槃，以清晰构建，用温度交付。</sub>
+
+</div>
