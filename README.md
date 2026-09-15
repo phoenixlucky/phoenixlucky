@@ -1,33 +1,10 @@
 <div align="center">
 
-<img src="./assets/readme-hero.webp" width="100%" alt="Dreamy phoenix rising above misty mountains" />
-
-<br />
-
-<img src="./assets/usachi.webp" width="118" alt="Usachi astronaut mascot" />
-
-<h1>🔥 PHOENIXLUCKY</h1>
+<img src="./assets/readme-hero.webp" width="100%" alt="Phoenixlucky profile showcase with a pastel phoenix, cards and navigation" />
 
 <p>
-  <strong>From chaos to clarity, rising with code</strong><br />
-  在混沌中构建，以代码涅槃
-</p>
-
-<p>
-  <a href="https://github.com/phoenixlucky"><img src="https://img.shields.io/badge/BUILD-FF4FB3?style=for-the-badge&logo=github&logoColor=white" alt="Build" /></a>
-  <a href="https://github.com/phoenixlucky?tab=repositories"><img src="https://img.shields.io/badge/AUTOMATE-7B61FF?style=for-the-badge&logo=workflow&logoColor=white" alt="Automate" /></a>
-  <a href="https://phoenixlucky.github.io/"><img src="https://img.shields.io/badge/LEARN-21C7D9?style=for-the-badge&logo=bookstack&logoColor=white" alt="Learn" /></a>
-  <a href="mailto:englishyj@gmail.com"><img src="https://img.shields.io/badge/CREATE-FF9852?style=for-the-badge&logo=rocket&logoColor=white" alt="Create" /></a>
-</p>
-
-<p>
-  <a href="#-about">🔥 About</a> ·
-  <a href="#-focus">✨ Focus</a> ·
-  <a href="#-tech-stack">🧰 Tech Stack</a> ·
-  <a href="#-featured-projects">💡 Projects</a> ·
-  <a href="#-github-insights">📈 Insights</a> ·
-  <a href="#-learning-now">🌱 Learning</a> ·
-  <a href="#-contact">📫 Contact</a>
+  <strong>Visual direction: Phoenix · Clarity · Practical builds</strong><br />
+  <sub>上图是视觉展示稿；下方保留可点击、可维护的真实 README 内容。</sub>
 </p>
 
 </div>
