@@ -145,6 +145,16 @@
       <img src="https://img.shields.io/badge/pip-FFD7B5?style=flat-square&logo=pypi&logoColor=2B2B2B" alt="pip" />
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top" width="100%">
+      <h3><a href="https://phoenixlucky.github.io/theAIKing/">👑 The AI King</a></h3>
+      <p>A curated index of AI Agent Skills, plugins and LSP servers, with ready-to-paste install prompts.</p>
+      <p><sub>AI Agent 技能 / 插件 / LSP 索引站，勾选即生成安装指令，一键交给各种 AI Agent 配置。</sub></p>
+      <img src="https://img.shields.io/badge/AI_Agent_Index-FFE6A7?style=flat-square&logo=openai&logoColor=2B2B2B" alt="AI agent index" />
+      <img src="https://img.shields.io/badge/Skill-CDE7FF?style=flat-square" alt="skill" />
+      <img src="https://img.shields.io/badge/LSP-E8D2F7?style=flat-square" alt="lsp" />
+    </td>
+  </tr>
 </table>
 
 <details>
@@ -203,6 +213,7 @@
 <a href="mailto:englishyj@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 <a href="https://github.com/phoenixlucky"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://phoenixlucky.github.io/"><img src="https://img.shields.io/badge/Blog-1F1F1F?style=for-the-badge&logo=githubpages&logoColor=white" alt="Blog" /></a>
+<a href="https://phoenixlucky.github.io/theAIKing/"><img src="https://img.shields.io/badge/The_AI_King-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" alt="The AI King" /></a>
 <a href="https://www.zhihu.com/people/wei-jia-6"><img src="https://img.shields.io/badge/Zhihu-0084FF?style=for-the-badge&logo=zhihu&logoColor=white" alt="Zhihu" /></a>
 
 <br /><br />
