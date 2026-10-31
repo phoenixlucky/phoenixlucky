@@ -6,7 +6,8 @@ import json
 import xml.etree.ElementTree as ET
 from pathlib import Path
 
-from PIL import Image, ImageDraw, ImageFont, ImageFilter
+from collections.abc import Callable
+from PIL import Image, ImageDraw, ImageFont, ImageFilter, ImageOps
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -222,6 +223,86 @@ def save_webp(image: Image.Image, name: str, quality: int = 90) -> None:
     print(f"{target.name}: {image.width}x{image.height}, {size} bytes")
 
 
+def glow_layer(size: int, draw_shape: Callable[[ImageDraw.ImageDraw], None], blur: float) -> Image.Image:
+    layer = Image.new("RGBA", (size, size), (0, 0, 0, 0))
+    draw_shape(ImageDraw.Draw(layer))
+    return layer.filter(ImageFilter.GaussianBlur(blur))
+
+
+def gradient_rgba(size: int, start: str, end: str, angle: int = 0) -> Image.Image:
+    gradient = Image.linear_gradient("L").resize((size, size))
+    if angle:
+        gradient = gradient.rotate(angle, expand=False)
+    return ImageOps.colorize(gradient, start, end).convert("RGBA")
+
+
+def vignette(image: Image.Image, strength: int = 46, color: tuple[int, int, int] = (76, 29, 149)) -> Image.Image:
+    mask = Image.radial_gradient("L").resize(image.size)
+    alpha = mask.point(lambda value: int(value * strength / 255))
+    layer = Image.new("RGBA", image.size, color + (0,))
+    layer.putalpha(alpha)
+    return Image.alpha_composite(image.convert("RGBA"), layer)
+
+
+def build_avatar(usachi: Image.Image) -> Image.Image:
+    """Round the mascot into a pastel-ringed avatar with a soft glow."""
+    size, diameter, pos = 320, 248, 36
+    crop = usachi.crop((270, 30, 810, 570)).resize((232, 232), Image.Resampling.LANCZOS)
+    canvas = Image.new("RGBA", (size, size), (0, 0, 0, 0))
+    canvas.alpha_composite(
+        glow_layer(size, lambda draw: draw.ellipse((18, 18, 302, 302), fill=(244, 71, 181, 48)), 26)
+    )
+    canvas.alpha_composite(
+        glow_layer(size, lambda draw: draw.ellipse((42, 54, 278, 290), fill=(76, 40, 191, 78)), 18)
+    )
+    ring = gradient_rgba(size, "#F9A8D4", "#C4B5FD")
+    ring_mask = Image.new("L", (size, size), 0)
+    ImageDraw.Draw(ring_mask).ellipse((pos, pos, pos + diameter - 1, pos + diameter - 1), fill=255)
+    canvas.paste(ring, (0, 0), ring_mask)
+    ImageDraw.Draw(canvas).ellipse(
+        (pos + 4, pos + 4, pos + diameter - 5, pos + diameter - 5), fill="#FFFFFF"
+    )
+    mask = Image.new("L", (232, 232), 0)
+    ImageDraw.Draw(mask).ellipse((0, 0, 231, 231), fill=255)
+    canvas.paste(crop, (pos + 8, pos + 8), mask)
+    return canvas
+
+
+def build_phoenix_card(phoenix: Image.Image) -> Image.Image:
+    """Frame the phoenix artwork in a glowing pastel card."""
+    size, card, pos = 440, 400, 20
+    image = vignette(phoenix.resize((384, 384), Image.Resampling.LANCZOS))
+    canvas = Image.new("RGBA", (size, size), (0, 0, 0, 0))
+    canvas.alpha_composite(
+        glow_layer(size, lambda draw: draw.rounded_rectangle((10, 10, 429, 429), 44, fill=(244, 71, 181, 42)), 28)
+    )
+    canvas.alpha_composite(
+        glow_layer(size, lambda draw: draw.rounded_rectangle((30, 40, 429, 439), 40, fill=(76, 40, 191, 72)), 22)
+    )
+    rim = gradient_rgba(size, "#F9A8D4", "#C4B5FD", angle=45)
+    rim_mask = Image.new("L", (size, size), 0)
+    ImageDraw.Draw(rim_mask).rounded_rectangle(
+        (pos, pos, pos + card - 1, pos + card - 1), 36, fill=255
+    )
+    canvas.paste(rim, (0, 0), rim_mask)
+    ImageDraw.Draw(canvas).rounded_rectangle(
+        (pos + 4, pos + 4, pos + card - 5, pos + card - 5), 32, fill="#FFFFFF"
+    )
+    mask = Image.new("L", (384, 384), 0)
+    ImageDraw.Draw(mask).rounded_rectangle((0, 0, 383, 383), 28, fill=255)
+    canvas.paste(image, (pos + 8, pos + 8), mask)
+    return canvas
+
+
+def save_webp_alpha(image: Image.Image, name: str, quality: int = 92) -> None:
+    target = OUTPUT / name
+    image.save(target, "WEBP", quality=quality, method=6)
+    size = target.stat().st_size
+    if size > 100_000:
+        raise RuntimeError(f"{target.name} is {size} bytes; keep alpha assets below 100KB")
+    print(f"{target.name}: {image.width}x{image.height}, {size} bytes")
+
+
 def build_profile_board(parts: list[Image.Image]) -> Image.Image:
     width = parts[0].width
     height = sum(part.height for part in parts)
@@ -258,8 +339,11 @@ def main() -> None:
     save_webp(metrics, "metrics.webp")
     save_webp(navigation, "navigation.webp")
     save_webp(about, "about-banner.webp")
-    save_webp(bg.crop((1450, 0, 2150, 700)), "phoenix.webp")
+    phoenix = bg.crop((1450, 0, 2150, 700))
+    save_webp(phoenix, "phoenix.webp")
     save_webp(usachi, "usachi.webp")
+    save_webp_alpha(build_avatar(usachi), "usachi-avatar.webp")
+    save_webp_alpha(build_phoenix_card(phoenix), "phoenix-card.webp", quality=91)
 
 
 if __name__ == "__main__":
