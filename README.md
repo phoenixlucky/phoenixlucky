@@ -158,21 +158,26 @@ A five-lens strategy framework — essence, conditions, gains and losses, sequen
 
 ## 🧰 Tech Stack
 
+<sub>Badges are the short list; the blueprint below is how the pieces fit together · 徽章是速览，下方是实际的分层架构</sub>
+
 <p>
   <strong>💻 Languages</strong><br />
   <img src="https://img.shields.io/badge/Python-F6C8D7?style=flat-square&logo=python&logoColor=2B2B2B" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-CDE7FF?style=flat-square&logo=typescript&logoColor=2B2B2B" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/TypeScript_6.0-CDE7FF?style=flat-square&logo=typescript&logoColor=2B2B2B" alt="TypeScript 6.0" />
   <img src="https://img.shields.io/badge/JavaScript-FFE6A7?style=flat-square&logo=javascript&logoColor=2B2B2B" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Rust-FFD7B5?style=flat-square&logo=rust&logoColor=2B2B2B" alt="Rust" />
+  <img src="https://img.shields.io/badge/Rust_1.99-FFD7B5?style=flat-square&logo=rust&logoColor=2B2B2B" alt="Rust 1.99" />
   <img src="https://img.shields.io/badge/Go-BAE6FD?style=flat-square&logo=go&logoColor=2B2B2B" alt="Go" />
   <img src="https://img.shields.io/badge/PowerShell-E9D5FF?style=flat-square&logo=powershell&logoColor=2B2B2B" alt="PowerShell" />
 </p>
 
 <p>
   <strong>🖥️ App & Desktop</strong><br />
-  <img src="https://img.shields.io/badge/Vue_3-C9E7D1?style=flat-square&logo=vuedotjs&logoColor=2B2B2B" alt="Vue 3" />
-  <img src="https://img.shields.io/badge/Tauri_2-DFCEF0?style=flat-square&logo=tauri&logoColor=2B2B2B" alt="Tauri 2" />
-  <img src="https://img.shields.io/badge/Vite-F4D2E7?style=flat-square&logo=vite&logoColor=2B2B2B" alt="Vite" />
+  <img src="https://img.shields.io/badge/Vue_3.5-C9E7D1?style=flat-square&logo=vuedotjs&logoColor=2B2B2B" alt="Vue 3.5" />
+  <img src="https://img.shields.io/badge/Tauri_2.12-DFCEF0?style=flat-square&logo=tauri&logoColor=2B2B2B" alt="Tauri 2.12" />
+  <img src="https://img.shields.io/badge/Vite_8-F4D2E7?style=flat-square&logo=vite&logoColor=2B2B2B" alt="Vite 8" />
+  <img src="https://img.shields.io/badge/Pinia_4-FFE6A7?style=flat-square&logo=pinia&logoColor=2B2B2B" alt="Pinia 4" />
+  <img src="https://img.shields.io/badge/Vue_Router_5-C9E7D1?style=flat-square&logo=vuedotjs&logoColor=2B2B2B" alt="Vue Router 5" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS_4-BAE6FD?style=flat-square&logo=tailwindcss&logoColor=2B2B2B" alt="Tailwind CSS 4" />
   <img src="https://img.shields.io/badge/Electron-C7ECFF?style=flat-square&logo=electron&logoColor=2B2B2B" alt="Electron" />
 </p>
 
@@ -188,12 +193,24 @@ A five-lens strategy framework — essence, conditions, gains and losses, sequen
 
 <p>
   <strong>🤖 AI & Agents</strong><br />
-  <img src="https://img.shields.io/badge/MCP-E8D2F7?style=flat-square" alt="Model Context Protocol" />
+  <img src="https://img.shields.io/badge/MCP_SDK_2.4-E8D2F7?style=flat-square" alt="MCP TypeScript SDK 2.4" />
+  <img src="https://img.shields.io/badge/JSON--RPC_2.0-DFCEF0?style=flat-square" alt="JSON-RPC 2.0" />
+  <img src="https://img.shields.io/badge/Streamable_HTTP-D9F0C7?style=flat-square" alt="Streamable HTTP transport" />
+  <img src="https://img.shields.io/badge/Zod_4.6-CDE7FF?style=flat-square&logo=zod&logoColor=2B2B2B" alt="Zod 4.6" />
   <img src="https://img.shields.io/badge/Chrome_Extension-CDE7FF?style=flat-square&logo=googlechrome&logoColor=2B2B2B" alt="Chrome Extension" />
   <img src="https://img.shields.io/badge/DeepSeek-E9D5FF?style=flat-square&logo=deepseek&logoColor=2B2B2B" alt="DeepSeek" />
   <img src="https://img.shields.io/badge/OpenAI-CDE7FF?style=flat-square&logo=openai&logoColor=2B2B2B" alt="OpenAI" />
   <img src="https://img.shields.io/badge/Claude-FFE2BC?style=flat-square&logo=anthropic&logoColor=2B2B2B" alt="Claude" />
   <img src="https://img.shields.io/badge/Ollama-E8D2F7?style=flat-square&logo=ollama&logoColor=2B2B2B" alt="Ollama" />
+</p>
+
+<p>
+  <strong>⚙️ Rust Runtime & Libraries</strong><br />
+  <img src="https://img.shields.io/badge/Tokio_1.54-D9EBC2?style=flat-square&logo=rust&logoColor=2B2B2B" alt="Tokio 1.54" />
+  <img src="https://img.shields.io/badge/serde_1.0-FFD7B5?style=flat-square" alt="serde 1.0" />
+  <img src="https://img.shields.io/badge/tracing_0.1-E9D5FF?style=flat-square" alt="tracing 0.1" />
+  <img src="https://img.shields.io/badge/thiserror_2.0-F6C8D7?style=flat-square" alt="thiserror 2.0" />
+  <img src="https://img.shields.io/badge/anyhow_1.0-C7ECFF?style=flat-square" alt="anyhow 1.0" />
 </p>
 
 <p>
@@ -204,7 +221,59 @@ A five-lens strategy framework — essence, conditions, gains and losses, sequen
   <img src="https://img.shields.io/badge/uv-E9D5FF?style=flat-square" alt="uv" />
 </p>
 
-<sub>Also worked with: VBA · AutoHotkey · Jupyter · Pinia · Conda · Java · MongoDB · Next.js · Streamlit · ComfyUI</sub>
+<sub>Also worked with: VBA · AutoHotkey · Jupyter · Conda · Java · MongoDB · Next.js · Streamlit · ComfyUI</sub>
+
+<details>
+<summary><strong>Desktop app blueprint · 桌面应用技术架构</strong> — Rust × MCP × Vue × Delivery</summary>
+
+<br />
+
+<sub>How the layers fit: Vue UI → Tauri IPC → Rust core, with a TypeScript MCP sidecar for model calls. 从界面交互到系统能力，再到模型调用与交付链路。<a href="https://phoenixlucky.github.io/tech-stack-tree/">Live blueprint ↗</a></sub>
+
+**01 · Native core — Rust 1.99.1 stable**
+
+| Area | Choices |
+| --- | --- |
+| Domain / service | business rules, IPC command handlers, system access |
+| System APIs | filesystem · database · crypto · OS APIs |
+| Data & persistence | SQL engine · migrations · file store · cache |
+| Async & background | Tokio 1.54.1 · job queue · scheduler · progress events · cancellation |
+| Infrastructure | serde 1.0.229 · tracing 0.1.44 · thiserror 2.0.21 · anyhow 1.0.104 |
+| Security & secrets | capability ACL · OS keychain · input validation · signature check |
+| Testing & contract | unit / integration · IPC contract tests · MCP contract tests · fixtures |
+
+**02 · Sidecar — TypeScript MCP adapter**
+
+| Area | Choices |
+| --- | --- |
+| Official SDK | @modelcontextprotocol/server 2.4.0 · @modelcontextprotocol/client 2.4.0 |
+| Schema | Zod 4.6.7 · Standard Schema 1.1.0 |
+| Protocol | JSON-RPC 2.0 (2026-07-28) · stdio · Streamable HTTP (legacy HTTP+SSE only for migration) |
+| Lifecycle | initialize → capability negotiation → tools/list → tools/call → progress / cancel → close |
+| Tool registry | tool contract · argument schema · result encoding · call audit |
+| Resources & prompts | resource templates · subscriptions · prompt templates · completions |
+| Auth & policy | token check · scopes · rate limits · audit log · IPC client with error and timeout mapping |
+
+**03 · User interface — Vue 3.5.45 stable**
+
+| Area | Choices |
+| --- | --- |
+| Core tooling | TypeScript 6.0.3 · Vite 8.3.6 · Pinia 4.1.0 |
+| Platform bridge | Tauri JS API · event subscription · window & tray · file dialog |
+| Data access | IPC wrapper · request cache · optimistic update · offline / error state |
+| UI system | component library · design tokens · icons · charts & tables |
+| UX & a11y | keyboard path · focus management · reduced motion · i18n |
+| Optional | Vue Router 5.4.0 · Tailwind CSS 4.3.5 |
+
+**Cross-cutting · 横切关注点**
+
+Security boundary (capability whitelist, key custody, validation, signatures) · observability (structured logs, latency metrics, cross-process traces) · config & flags (environment tiers, runtime config, feature rollouts) · error & recovery (unified error types, timeout retry, degradation, readable messages) · performance (startup, memory, serialization, scheduling) · accessibility (keyboard, focus, reduced motion, i18n).
+
+**Delivery pipeline · 交付链路**
+
+`local dev` → `quality gates` → `build` → `sign & notarize` → `update & rollback` → `runtime observability`
+
+</details>
 
 ## 📈 Signals
 
